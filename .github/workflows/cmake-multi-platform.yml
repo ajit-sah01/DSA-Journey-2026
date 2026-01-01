@@ -1,0 +1,63 @@
+name: CMake CI (Multi-Platform)
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    name: ${{ matrix.os }} | ${{ matrix.build_type }} | ${{ matrix.compiler }}
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # Ubuntu GCC
+          - os: ubuntu-latest
+            compiler: gcc
+            c_compiler: gcc
+            cpp_compiler: g++
+            build_type: Release
+
+          - os: ubuntu-latest
+            compiler: gcc
+            c_compiler: gcc
+            cpp_compiler: g++
+            build_type: Debug
+
+          # Ubuntu Clang
+          - os: ubuntu-latest
+            compiler: clang
+            c_compiler: clang
+            cpp_compiler: clang++
+            build_type: Release
+
+          # Windows MSVC
+          - os: windows-latest
+            compiler: msvc
+            c_compiler: cl
+            cpp_compiler: cl
+            build_type: Release
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure CMake
+        run: |
+          cmake -S . -B build \
+            -DCMAKE_C_COMPILER=${{ matrix.c_compiler }} \
+            -DCMAKE_CXX_COMPILER=${{ matrix.cpp_compiler }} \
+            -DCMAKE_BUILD_TYPE=${{ matrix.build_type }}
+
+      - name: Build
+        run: |
+          cmake --build build --config ${{ matrix.build_type }}
+
+      - name: Run Tests
+        working-directory: build
+        run: |
+          ctest --output-on-failure --build-config ${{ matrix.build_type }}
