@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-652_Contributions_2026-181717?style=for-the-badge&logo=github)](https://github.com/ajitdev01)
 
 </div>
-
 ---
 
 ## 🧑‍💻 About Me
