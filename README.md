@@ -22,7 +22,7 @@
 👤  Ajit Dev (ajitdev01)
 🏫  Amity University Online
 🌏  India
-🌐  https://brainzima.com  |  https://ajitdev.com
+🌐  https://brainzima.com  |  https://ajitdev.com  |  https://rexvel.com 
 📧  ajitk23192@gmail.com
 
 🛠️  Full Stack Developer  →  MERN Stack | LAMP Stack
