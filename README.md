@@ -1,6 +1,6 @@
 <div align="center">
     
-# DSA Journey 2026
+# DSA Journey 2026-2028
 
 ### [ajitdev01](https://leetcode.com/ajitdev01) · [GitHub](https://github.com/ajitdev01) · [LinkedIn](https://linkedin.com/in/ajitdev01) · [ajitdev.com](https://ajitdev.com)
 
