@@ -1,30 +1,16 @@
-#include <vector>
-#include <unordered_map>
-
-using namespace std;
-
-class Solution
-{
+class Solution {
 public:
-    vector<int> twoSum(const vector<int> &nums, int target)
-    {
-        unordered_map<int, int> index;
-        index.reserve(nums.size());  // Avoid rehashing
-        index.max_load_factor(0.7f); // Reduce collision probability
+    vector<int> twoSum(vector<int>& nums, int target) {
+      int n = nums.size();
+        // O(n2) Time Complexity ..
+      for(int i = 0 ; i<n;i++){
+        for(int j = i+1 ; j<n;j++){
 
-        for (int i = 0, n = nums.size(); i < n; ++i)
-        {
-            const int complement = target - nums[i];
-
-            auto it = index.find(complement);
-            if (it != index.end())
-            {
-                return {it->second, i};
-            }
-
-            index.emplace(nums[i], i); // Faster than operator[]
-        }
-
-        return {};
-    }
+            if(nums[i] + nums[j] == target){
+                return {i,j}; // if found ans return 
+            };
+        };
+      };
+      return {-1,-1}; // not find tha ans
+    };
 };
