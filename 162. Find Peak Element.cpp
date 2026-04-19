@@ -21,6 +21,7 @@ public:
         //     return i;
         //    }
         // }
+        //  return -1 ;
 
         // // O(log n)
         int l = 0, r = nums.size() - 1;
@@ -28,7 +29,6 @@ public:
         while (l < r)
         {
             int mid = (l + r) / 2;
-
             if (nums[mid] > nums[mid + 1])
             {
                 r = mid;
@@ -39,6 +39,7 @@ public:
             }
         }
 
-        return l; // 🔥 yahi answer hai
+        
+        return l;
     }
 };
