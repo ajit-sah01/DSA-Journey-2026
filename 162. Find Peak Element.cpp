@@ -9,6 +9,7 @@ public:
     int findPeakElement(vector<int> &nums)
     {
 
+        
         //// O(n) approch
         // int n = nums.size();
         // int PeakMax = INT_MIN;
@@ -23,9 +24,10 @@ public:
         // }
         //  return -1 ;
 
+
+        
         // // O(log n)
         int l = 0, r = nums.size() - 1;
-
         while (l < r)
         {
             int mid = (l + r) / 2;
@@ -39,5 +41,7 @@ public:
             }
         }
         return l;
+
+        
     }
 };
