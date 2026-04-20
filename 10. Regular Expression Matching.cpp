@@ -30,7 +30,6 @@ public:
                 {
                     // Zero occurrence
                     dp[i][j] = dp[i][j - 2];
-
                     // One or more occurrences
                     char prev = p[j - 2];
                     if (prev == s[i - 1] || prev == '.')
