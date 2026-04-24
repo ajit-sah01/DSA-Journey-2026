@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <cstddef>
-
 // --- Custom Fast Allocator ---
 const size_t BUFFER_SIZE = 0x6fafffff; // ~1.8 GB
 alignas(std::max_align_t) char buffer[BUFFER_SIZE];
