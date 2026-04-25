@@ -25,7 +25,6 @@ public:
                 dp[0][j] = dp[0][j - 2]; // ignore "x*"
             }
         }
-
         // 🔹 Fill DP table
         for (int i = 1; i <= n; ++i)
         {
@@ -36,7 +35,6 @@ public:
                 {
                     dp[i][j] = dp[i - 1][j - 1];
                 }
-
                 // ✅ Case 2: '*'
                 else if (p[j - 1] == '*')
                 {
@@ -53,7 +51,6 @@ public:
                 }
             }
         }
-
         // Final result: full string vs full pattern
         return dp[n][m];
     }
