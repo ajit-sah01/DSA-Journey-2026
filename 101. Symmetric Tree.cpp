@@ -5,7 +5,6 @@ public:
         if (!root) return true;
         return isMirror(root->left, root->right);
     }
-
 private:
     bool isMirror(TreeNode* t1, TreeNode* t2) {
         // Base case: both are null, so they are mirrors
