@@ -32,7 +32,6 @@ public:
             }
             ans.push_back(std::move(level)); // Move rather than copy
         }
-
         return ans;
     }
 };
