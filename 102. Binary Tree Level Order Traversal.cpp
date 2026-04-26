@@ -4,7 +4,6 @@ static const int fast_io = []() {
     std::cin.tie(NULL);
     return 0;
 }();
-
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
