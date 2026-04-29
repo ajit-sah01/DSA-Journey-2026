@@ -1,42 +1,99 @@
 <div align="center">
-    
-# DSA Journey 2026
 
-### [ajitdev01](https://leetcode.com/ajitdev01) · [GitHub](https://github.com/ajitdev01) · [LinkedIn](https://linkedin.com/in/ajitdev01) · [ajitdev.com](https://ajitdev.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DSA%20Journey%202026&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Ajit%20Dev%20·%20ajitdev01&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-> *"Consistency beats talent. 100 days and counting."*
+<br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-ajitdev01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ajitdev01)
-[![Rank](https://img.shields.io/badge/Rank-%23452%2C511-blue?style=for-the-badge)](https://leetcode.com/ajitdev01)
-[![Streak](https://img.shields.io/badge/🔥_Streak-100_Days-orange?style=for-the-badge)]()
-[![Solved](https://img.shields.io/badge/✅_Solved-299_Problems-green?style=for-the-badge)]()
-[![GitHub](https://img.shields.io/badge/GitHub-652_Contributions_2026-181717?style=for-the-badge&logo=github)](https://github.com/ajitdev01)
+<a href="https://leetcode.com/ajitdev01"><img src="https://img.shields.io/badge/LeetCode-ajitdev01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/ajitdev01"><img src="https://img.shields.io/badge/GitHub-ajitdev01-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/ajitdev01"><img src="https://img.shields.io/badge/LinkedIn-ajitdev01-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://ajitdev.com"><img src="https://img.shields.io/badge/Portfolio-ajitdev.com-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔥_Streak-122_Days-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✅_Solved-360_Problems-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏅_Rank-%23342%2C312-3b82f6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⭐_GitHub-737_Contributions-a855f7?style=for-the-badge"/>
+
+<br/><br/>
+
+> *"Consistency beats talent. 122 days and still going strong."*
 
 </div>
 
 ---
 
-## About Me
+## 👤 About Me
 
 ```
-👤  Ajit Dev (ajitdev01)
-🏫  Amity University Online
-🌏  India
-🌐  https://brainzima.com  |  https://ajitdev.com  |  https://rexvel.com 
-📧  ajitk23192@gmail.com
-
-🛠️  Full Stack Developer  →  MERN Stack | LAMP Stack
-🔐  Security Enthusiast   →  OWASP Top 10 | API Security | DevSecOps
-☁️  Cloud Learner         →  AWS | Docker | DevOps | Linux
-🎯  Goal: FAANG-level DSA + Security Engineering
+┌─────────────────────────────────────────────────────────────────┐
+│  👤  Ajit Dev (ajitdev01)           🏫  Amity University Online  │
+│  🌏  India, Bihar                   📧  ajitk23192@gmail.com     │
+│  🌐  brainzima.com · ajitdev.com · rexvel.com                    │
+├─────────────────────────────────────────────────────────────────┤
+│  🛠️  Full Stack Developer  →  MERN Stack | LAMP Stack            │
+│  🔐  Security Enthusiast   →  OWASP Top 10 | API Security        │
+│  ☁️  Cloud Learner         →  AWS | Docker | DevOps | Linux      │
+│  🎯  Goal: FAANG-level DSA + Security Engineering                │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Tech Stack
+## 📊 Live Stats Dashboard
+
+<div align="center">
+
+### 🟩 LeetCode Progress
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🔄 Attempting | 📦 Total | 🏅 Rank |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **118** / 940 | **182** / 2048 | **60** / 927 | **2** | **360** / 3915 | **#342,312** |
+
+```
+Easy   ████████████░░░░░░░░  118 / 940    12.6% ▲ (+33)
+Medium █████████░░░░░░░░░░░  182 / 2048    8.9% ▲ (+23)
+Hard   ███████░░░░░░░░░░░░░   60 / 927     6.5% ▲ (+5)
+Total  █████████░░░░░░░░░░░  360 / 3915    9.2% ▲ (+61 from last update)
+```
+
+```
+📅 Active Days      : 122 (Max Streak: 122 🔥 Current!)
+📨 Total Submissions: 973 (past year)
+🏆 Badges Earned    : 5
+🔄 Attempting       : 2 problems
+```
+
+### 🐙 GitHub Activity
+
+```
+⭐ Contributions  : 737 in 2026
+📦 Public Repos   : 14
+💻 April 2026     : 75 commits across 8 repositories
+📝 Activity       : 100% commits · 0% issues · 0% PRs
+```
+
+</div>
+
+---
+
+## 🏅 Badges Earned
+
+| Badge | Description | Status |
+|-------|-------------|:------:|
+| 🔥 **100 Days Badge 2026** | Most Recent — 100+ active days in 2026 | ✅ |
+| 🟢 **3 Year Badge** | 3 years on LeetCode | ✅ |
+| 🥇 **Annual Badge** | Consistent yearly participation | ✅ |
+| 💎 **Feb 2026 Badge** | Active throughout February 2026 | ✅ |
+| 🆕 **5th Badge** | Latest achievement unlocked | ✅ |
+
+---
+
+## 💻 Tech Stack
 
 <details>
-<summary><b>💻 Languages</b></summary>
+<summary><b>🗣️ Languages</b></summary>
 <br>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -92,94 +149,52 @@
 
 ---
 
-## LeetCode Stats
-
-<div align="center">
-
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📦 Total | 🏅 Rank |
-|:---:|:---:|:---:|:---:|:---:|
-| **85** / 935 | **159** / 2036 | **55** / 921 | **299** / 3892 | **#452,511** |
-
-</div>
+## 🗂️ Top Languages (GitHub Commits)
 
 ```
-📅 Total Active Days   : 100        🔥 Max Streak : 100 Days ← Current!
-📨 Total Submissions   : 763        🏆 Badges     : 4
-```
-
-### Difficulty Progress
-
-```
-Easy   ██████████░░░░░░░░░░   85 / 935    9.1%
-Medium ███████░░░░░░░░░░░░░  159 / 2036   7.8%
-Hard   ██████░░░░░░░░░░░░░░   55 / 921    6.0%
-Total  ████████░░░░░░░░░░░░  299 / 3892   7.7%
-```
-
-### Badges
-
-| Badge | Description |
-|-------|-------------|
-| 🏅 **50 Days Badge 2026** | Most recent — active 50 days in 2026 |
-| 🟢 **3 Year Badge** | 3 years on LeetCode |
-| 🥇 **Annual Badge** | Consistent yearly participation |
-| 💎 **Feb 2026 Badge** | Active throughout February 2026 |
-
----
-
-## GitHub Stats
-
-```
-🐙  Username     : ajitdev01
-📦  Public Repos : 14
-⭐  Contributions: 652 in 2026
-🔥  Streak       : 100 days (Oct 24, 2024 – Present)
-📝  Total Commits: 679
-```
-
-**Top Languages by Commit:**
-```
-Python     ██████████░░░░░░  ~40%
-C++        ████████░░░░░░░░  ~30%
-JavaScript ████░░░░░░░░░░░░  ~18%
-C          ██░░░░░░░░░░░░░░   ~8%
-PHP        █░░░░░░░░░░░░░░░   ~4%
+Python     ██████████░░░░░░  ~40%   (DSA solutions, scripting)
+C++        ████████░░░░░░░░  ~30%   (LeetCode, competitive)
+JavaScript ████░░░░░░░░░░░░  ~18%   (MERN, web projects)
+C          ██░░░░░░░░░░░░░░   ~8%   (algorithms, systems)
+PHP        █░░░░░░░░░░░░░░░   ~4%   (LAMP stack)
 ```
 
 ---
 
-## Topic Progress
+## 🗺️ Topic Progress
 
-| Topic | Solved | Mix |
-|-------|:------:|-----|
-| 📦 Arrays & Hashing | ~40 | Easy + Medium + Hard |
-| 🌳 Trees | ~25 | Easy + Medium + Hard |
-| 🔤 Strings & Math | ~20 | Easy + Medium + Hard |
-| 💡 Dynamic Programming | ~18 | Medium + Hard |
-| 🔗 Linked Lists | ~16 | Easy + Medium |
-| ⚡ Two Pointers / Sliding Window | ~15 | Easy + Medium |
-| 🔙 Backtracking | ~12 | Medium + Hard |
-| 🔍 Binary Search | ~10 | Easy + Medium |
-| 📚 Stack & Queue | ~6 | Easy + Medium |
-| 🌐 Graph | ~5 | Medium + Hard |
+| Topic | Solved | Difficulty Mix | Progress |
+|-------|:------:|----------------|----------|
+| 📦 Arrays & Hashing | ~50 | Easy + Medium + Hard | `████████░░` 80% |
+| 🌳 Trees | ~30 | Easy + Medium + Hard | `███████░░░` 70% |
+| 🔤 Strings & Math | ~25 | Easy + Medium + Hard | `██████░░░░` 60% |
+| 💡 Dynamic Programming | ~22 | Medium + Hard | `█████░░░░░` 50% |
+| 🔗 Linked Lists | ~20 | Easy + Medium | `██████░░░░` 60% |
+| ⚡ Two Pointers / Sliding Window | ~18 | Easy + Medium | `█████░░░░░` 50% |
+| 🔙 Backtracking | ~14 | Medium + Hard | `████░░░░░░` 40% |
+| 🔍 Binary Search | ~12 | Easy + Medium | `████░░░░░░` 40% |
+| 📚 Stack & Queue | ~8 | Easy + Medium | `███░░░░░░░` 30% |
+| 🌐 Graph | ~7 | Medium + Hard | `██░░░░░░░░` 20% |
 
 ---
 
-## Recently Solved
+## 🕐 Recently Solved
 
 | Problem | Difficulty | When |
 |---------|:----------:|------|
-| Walking Robot Simulation II | 🟡 Medium | 7 min ago |
-| Majority Element | 🟢 Easy | 1 day ago |
-| Walking Robot Simulation | 🟡 Medium | 1 day ago |
-| Single Number | 🟢 Easy | Today |
-| Binary Search (#704) | 🟢 Easy | Today |
+| Move Zeroes | 🟢 Easy | 8 hours ago |
+| Contains Duplicate | 🟢 Easy | 8 hours ago |
+| Maximum Score From Grid Operations | 🔴 Hard | 8 hours ago |
+| Ugly Number | 🟢 Easy | 1 day ago |
+| Minimum Operations to Make a Uni-Value Grid | 🟡 Medium | 1 day ago |
+| Majority Element | 🟢 Easy | 2 days ago |
+| Check if There is a Valid Path in a Grid | 🟡 Medium | 2 days ago |
 
 ---
 
-## Full Problem Tracker — LeetCode #1–155
+## 📋 Full Problem Tracker — LeetCode #1–155+
 
-> **Legend:** ✅ Solved &nbsp;|&nbsp; 🔄 Attempting &nbsp;|&nbsp; ❌ Not Started &nbsp;&nbsp;&nbsp; **Difficulty:** 🟢 Easy · 🟡 Medium · 🔴 Hard
+> **Legend:** ✅ Solved &nbsp;|&nbsp; 🔄 Attempting &nbsp;|&nbsp; ❌ Not Started &nbsp;&nbsp; **Difficulty:** 🟢 Easy · 🟡 Medium · 🔴 Hard
 
 <details>
 <summary><b>📦 Arrays & Hashing</b></summary>
@@ -194,10 +209,10 @@ PHP        █░░░░░░░░░░░░░░░   ~4%
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 | ❌ | Sorted string as key |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 | ❌ | Sort + merge overlap |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 | ❌ | Linear scan merge |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 | ❌ | Carry from end |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 | ✅ | Carry from end |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 | ❌ | First row/col as marker |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 | ❌ | Merge from the end |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 | ❌ | Row = prev row offsets |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 | ✅ | Merge from the end |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 | ✅ | Row = prev row offsets |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 | ❌ | O(k) space, right to left |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 | ❌ | HashSet, only start streaks |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 | ✅ | XOR all elements |
@@ -206,6 +221,8 @@ PHP        █░░░░░░░░░░░░░░░   ~4%
 | 153 | [Find Min in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 | ❌ | Binary search pivot |
 | 154 | [Find Min in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 | ❌ | Binary search + duplicates |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 | ✅ | Boyer-Moore voting |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 | ✅ | HashSet lookup |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 | ✅ | Two pointer in-place |
 
 </details>
 
@@ -401,6 +418,8 @@ PHP        █░░░░░░░░░░░░░░░   ~4%
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 | ❌ | BFS with word swaps |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 | ❌ | DFS from border O's |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 | ❌ | DFS + HashMap clone |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 | ❌ | DFS flood fill |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 | ❌ | Topological sort / cycle detect |
 
 </details>
 
@@ -419,10 +438,10 @@ PHP        █░░░░░░░░░░░░░░░   ~4%
 
 ---
 
-## Algorithm Templates (C++)
+## 🧠 Algorithm Templates (C++)
 
 <details>
-<summary>Binary Search</summary>
+<summary>🔍 Binary Search</summary>
 
 ```cpp
 int lo = 0, hi = n - 1;
@@ -437,7 +456,7 @@ return -1;
 </details>
 
 <details>
-<summary>Two Pointers</summary>
+<summary>👆 Two Pointers</summary>
 
 ```cpp
 int left = 0, right = n - 1;
@@ -449,7 +468,7 @@ while (left < right) {
 </details>
 
 <details>
-<summary>Sliding Window</summary>
+<summary>🪟 Sliding Window</summary>
 
 ```cpp
 int left = 0;
@@ -464,7 +483,7 @@ for (int right = 0; right < n; right++) {
 </details>
 
 <details>
-<summary>DFS — Tree</summary>
+<summary>🌳 DFS — Tree</summary>
 
 ```cpp
 void dfs(TreeNode* root) {
@@ -479,7 +498,7 @@ void dfs(TreeNode* root) {
 </details>
 
 <details>
-<summary>BFS — Level Order</summary>
+<summary>🌊 BFS — Level Order</summary>
 
 ```cpp
 queue<TreeNode*> q;
@@ -496,7 +515,7 @@ while (!q.empty()) {
 </details>
 
 <details>
-<summary>Backtracking</summary>
+<summary>🔙 Backtracking</summary>
 
 ```cpp
 void backtrack(vector<int>& path, ...) {
@@ -514,7 +533,7 @@ void backtrack(vector<int>& path, ...) {
 </details>
 
 <details>
-<summary>Dynamic Programming</summary>
+<summary>💡 Dynamic Programming</summary>
 
 ```cpp
 // 1D DP
@@ -532,7 +551,36 @@ for (int i = 1; i <= m; i++)
 </details>
 
 <details>
-<summary>OWASP Top 10 — Quick Reference</summary>
+<summary>🌐 Graph — DFS/BFS</summary>
+
+```cpp
+// DFS (iterative)
+void dfs(int node, vector<vector<int>>& adj, vector<bool>& visited) {
+    stack<int> st;
+    st.push(node);
+    while (!st.empty()) {
+        int cur = st.top(); st.pop();
+        if (visited[cur]) continue;
+        visited[cur] = true;
+        for (int nb : adj[cur]) st.push(nb);
+    }
+}
+
+// BFS
+void bfs(int src, vector<vector<int>>& adj, vector<int>& dist) {
+    queue<int> q;
+    q.push(src); dist[src] = 0;
+    while (!q.empty()) {
+        int cur = q.front(); q.pop();
+        for (int nb : adj[cur])
+            if (dist[nb] == -1) { dist[nb] = dist[cur]+1; q.push(nb); }
+    }
+}
+```
+</details>
+
+<details>
+<summary>🔐 OWASP Top 10 — Quick Reference</summary>
 
 ```
 A01 — Broken Access Control       → Always validate auth server-side
@@ -549,7 +597,7 @@ A10 — SSRF                        → Validate/sanitize all server requests
 </details>
 
 <details>
-<summary>DevOps / DevSecOps Cheatsheet</summary>
+<summary>🐳 DevOps / DevSecOps Cheatsheet</summary>
 
 ```bash
 # Docker basics
@@ -577,11 +625,11 @@ fail2ban-client status
 
 ---
 
-## 10-Week Study Plan
+## 📅 10-Week Study Plan
 
-| Week | Focus Area | Problems |
-|:----:|-----------|----------|
-| 1 | 📦 Arrays + Hashing | 1, 26, 27, 49, 56, 88, 128, 136, 169 |
+| Week | Focus Area | Target Problems |
+|:----:|-----------|-----------------|
+| 1 | 📦 Arrays + Hashing | 1, 26, 27, 49, 56, 88, 128, 136, 169, 217, 283 |
 | 2 | 🪟 Two Pointers + Sliding Window | 3, 11, 15, 76, 121, 125 |
 | 3 | 🔍 Binary Search | 33, 34, 35, 69, 74, 153, 704 |
 | 4 | 🔗 Linked Lists | 2, 19, 21, 23, 141, 142, 146 |
@@ -589,29 +637,33 @@ fail2ban-client status
 | 6 | 🌳 Trees DFS/BFS | 94, 98, 100–108, 110–113, 124 |
 | 7 | 🔙 Backtracking | 17, 22, 39, 46, 51, 77, 78 |
 | 8 | 💡 Dynamic Programming | 5, 53, 62, 70, 91, 120, 139 |
-| 9 | 🌐 Graphs + Advanced | 127, 130, 133, 42, 84 |
-| 10 | 🔴 Hard Review | All hard problems revisited |
+| 9 | 🌐 Graphs + Advanced | 127, 130, 133, 200, 207, 42 |
+| 10 | 🔴 Hard Review + Mock Interviews | All hard problems revisited |
 
 ---
 
-## Milestones
+## 🏆 Milestones
 
-| Milestone | Status |
-|-----------|:------:|
-| 25 Solved | ✅ |
-| 50 Solved | ✅ |
-| 100 Solved | ✅ |
-| 200 Solved | ✅ |
-| 299 Solved — **Current** 🔥 | ✅ |
-| 350 Solved | 🔄 In Progress |
-| 500 Solved — FAANG Ready | ❌ Goal |
-| Complete OWASP Top 10 Lab | 🔄 In Progress |
-| AWS Certified Cloud Practitioner | ❌ Goal |
-| Docker + CI/CD Pipeline Project | ❌ Goal |
+| Milestone | Status | Date |
+|-----------|:------:|------|
+| 25 Solved | ✅ | 2024 |
+| 50 Solved | ✅ | 2024 |
+| 100 Solved | ✅ | 2025 |
+| 200 Solved | ✅ | 2025 |
+| 299 Solved | ✅ | Apr 2026 |
+| **360 Solved — Current 🔥** | ✅ | **Apr 29, 2026** |
+| 500 Solved | 🔄 In Progress | Goal: Jun 2026 |
+| 🔥 **122-Day Streak** | ✅ | **Current!** |
+| 🏅 **5 Badges Earned** | ✅ | **Apr 2026** |
+| Rank < 300,000 | 🔄 In Progress | Goal: May 2026 |
+| Complete OWASP Top 10 Lab | 🔄 In Progress | — |
+| AWS Certified Cloud Practitioner | ❌ Goal | — |
+| Docker + CI/CD Pipeline Project | ❌ Goal | — |
+| 1000 GitHub Contributions 2026 | 🔄 In Progress | — |
 
 ---
 
-## Resources
+## 📚 Resources
 
 ### DSA
 
@@ -623,6 +675,7 @@ fail2ban-client status
 | [Visualgo](https://visualgo.net) | Algorithm animations |
 | [Big-O Cheat Sheet](https://bigocheatsheet.com) | Complexity reference |
 | [Striver's SDE Sheet](https://takeuforward.org) | Top 450 interview questions |
+| [CSES Problem Set](https://cses.fi/problemset/) | Competitive programming |
 
 ### Security & DevSecOps
 
@@ -637,15 +690,39 @@ fail2ban-client status
 
 ---
 
+## 🗂️ My Projects & Repos
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [DSA-Journey-2026](https://github.com/ajitdev01/DSA-Journey-2026) | This tracker | Multi |
+| [python-core-to-advanced](https://github.com/ajitdev01/python-core-to-adva-) | Python deep dive | Python |
+| [C-Programming-Journey](https://github.com/ajitdev01/C-Programming-Jour-) | C fundamentals | C |
+| [JavaScript-Core-to-Advanced](https://github.com/ajitdev01) | JS mastery | JavaScript |
+| [TypeScript-zero-to-advanced](https://github.com/ajitdev01) | TS from scratch | TypeScript |
+| [Bootstrap-Frontend-Journey](https://github.com/ajitdev01) | Responsive UI | HTML/CSS |
+| [CSS](https://github.com/ajitdev01) | All CSS topics | HTML/CSS |
+
+---
+
 <div align="center">
 
-**🔥 100-Day Streak · 299 Solved · Rank #452,511**
+## 🔥 Current Status
 
-MERN · LAMP · AWS · Docker · DevSecOps · Cybersecurity
+**122-Day Streak · 360 Problems Solved · Rank #342,312**
+
+**973 Submissions · 5 Badges · 737 GitHub Contributions in 2026**
+
+---
+
+*MERN · LAMP · AWS · Docker · DevSecOps · Cybersecurity*
 
 *"The more I practice, the luckier I get."*
 
-[⭐ Star this repo](https://github.com/ajitdev01/DSA-Journey-2026) · [ajitdev01 on LeetCode](https://leetcode.com/ajitdev01) · Made with 💪 in India 🇮🇳
+---
+
+[⭐ Star this repo](https://github.com/ajitdev01/DSA-Journey-2026) &nbsp;·&nbsp; [ajitdev01 on LeetCode](https://leetcode.com/ajitdev01) &nbsp;·&nbsp; Made with 💪 in India 🇮🇳
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajitdev01.DSA-Journey-2026)
 
