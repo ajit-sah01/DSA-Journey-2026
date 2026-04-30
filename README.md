@@ -1,24 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DSA%20Journey%202026&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Ajit%20Dev%20·%20ajitdev01&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a3e,100:0d0d2b&height=200&section=header&text=NeetCode%20Solutions&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=@ajitdev01%20%E2%80%94%20Mastering%20DSA%2C%20one%20pattern%20at%20a%20time&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://leetcode.com/ajitdev01"><img src="https://img.shields.io/badge/LeetCode-ajitdev01-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/ajitdev01"><img src="https://img.shields.io/badge/GitHub-ajitdev01-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/ajitdev01"><img src="https://img.shields.io/badge/LinkedIn-ajitdev01-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://ajitdev.com"><img src="https://img.shields.io/badge/Portfolio-ajitdev.com-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://neetcode.io"><img src="https://img.shields.io/badge/NeetCode-Solutions-00d4aa?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/ajitdev01"><img src="https://img.shields.io/badge/GitHub-ajitdev01-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ajitdev01"><img src="https://img.shields.io/badge/LinkedIn-ajitdev01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ajitdev01/neetcode-submissions"><img src="https://img.shields.io/badge/Portfolio-ajitdev.com-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🔥_Streak-122_Days-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✅_Solved-360_Problems-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏅_Rank-%23342%2C312-3b82f6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⭐_GitHub-737_Contributions-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥_Streak-Active-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✅_NeetCode-Blind%2075%20+%20150-00d4aa?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Languages-10+-3b82f6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⭐_GitHub-ajitdev01-a855f7?style=for-the-badge"/>
 
 <br/><br/>
 
-> *"Consistency beats talent. 122 days and still going strong."*
+[![GitHub Stars](https://img.shields.io/github/stars/ajitdev01/neetcode-submissions?style=for-the-badge&logo=github&color=1a1a3e&labelColor=0a0a1a)](https://github.com/ajitdev01/neetcode-submissions/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/ajitdev01/neetcode-submissions?style=for-the-badge&logo=github&color=1a1a3e&labelColor=0a0a1a)](https://github.com/ajitdev01/neetcode-submissions/network)
+[![Last Commit](https://img.shields.io/github/last-commit/ajitdev01/neetcode-submissions?style=for-the-badge&logo=git&color=1a1a3e&labelColor=0a0a1a)](https://github.com/ajitdev01/neetcode-submissions/commits)
+[![Profile Views](https://komarev.com/ghpvc/?username=ajitdev01&style=for-the-badge&color=1a1a3e&label=PROFILE+VIEWS)](https://github.com/ajitdev01)
+
+<br/>
+
+> *"The best way to predict your future is to create it — one commit at a time."*
 
 </div>
 
@@ -27,17 +34,33 @@
 ## 👤 About Me
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  👤  Ajit Dev (ajitdev01)           🏫  Amity University Online  │
-│  🌏  India, Bihar                   📧  ajitk23192@gmail.com     │
-│  🌐  brainzima.com · ajitdev.com · rexvel.com                    │
-├─────────────────────────────────────────────────────────────────┤
-│  🛠️  Full Stack Developer  →  MERN Stack | LAMP Stack            │
-│  🔐  Security Enthusiast   →  OWASP Top 10 | API Security        │
-│  ☁️  Cloud Learner         →  AWS | Docker | DevOps | Linux      │
-│  🎯  Goal: FAANG-level DSA + Security Engineering                │
-└─────────────────────────────────────────────────────────────────┘
+
+┌────────────────────────────────────────────────────────────────────┐
+│  👤  Ajit (@ajitdev01)          🏫  Amity University Online        │
+│  🌏  India                      📧  ajitk23192@gmail.com           │
+│  🔗  github.com/ajitdev01       🔗  neetcode.io/profile/ajitdev01  │
+│  🔗  leetcode.com/u/ajitdev01   🔗  ajitdev.com                    │
+├────────────────────────────────────────────────────────────────────┤
+│  🛠️  Full Stack Developer   →  MERN | Next.js | LAMP               │
+│  🔐  Security Enthusiast    →  OWASP Top 10 | API Security         │
+│  ☁️  Cloud & DevOps Learner →  AWS | Docker | Linux                │
+│  🎯  Goal → FAANG-level DSA + Security Engineering                 │
+└────────────────────────────────────────────────────────────────────┘
 ```
+
+
+---
+
+## 📌 About This Repository
+
+This repository is **auto-synced** with my **[NeetCode.io](https://neetcode.io)** submissions — a curated, structured path through the most important DSA problems for software engineering interviews.
+
+| 🎯 Goal | 📈 Approach | 🔧 Method |
+|---|---|---|
+| Interview Readiness | Daily consistent practice | Pattern recognition over memorization |
+| MAANG-Level Prep | Time & space optimization | Multi-language implementations |
+| Strong DSA Foundation | Structured topic coverage | Review + iterative refinement |
+| Public Accountability | Auto-commit every solution | Transparent progress tracking |
 
 ---
 
@@ -45,405 +68,434 @@
 
 <div align="center">
 
-### 🟩 LeetCode Progress
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajitdev01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00d4aa&icon_color=00d4aa&text_color=94a3b8)](https://github.com/ajitdev01)
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🔄 Attempting | 📦 Total | 🏅 Rank |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **118** / 940 | **182** / 2048 | **60** / 927 | **2** | **360** / 3915 | **#342,312** |
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitdev01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=00d4aa&text_color=94a3b8)](https://github.com/ajitdev01)
 
-```
-Easy   ████████████░░░░░░░░  118 / 940    12.6% ▲ (+33)
-Medium █████████░░░░░░░░░░░  182 / 2048    8.9% ▲ (+23)
-Hard   ███████░░░░░░░░░░░░░   60 / 927     6.5% ▲ (+5)
-Total  █████████░░░░░░░░░░░  360 / 3915    9.2% ▲ (+61 from last update)
-```
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajitdev01&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa)](https://github.com/ajitdev01)
+
+</div>
+
+### 🗂️ NeetCode Topic Progress
 
 ```
-📅 Active Days      : 122 (Max Streak: 122 🔥 Current!)
-📨 Total Submissions: 973 (past year)
-🏆 Badges Earned    : 5
-🔄 Attempting       : 2 problems
+Arrays & Hashing         ██████████░░░░░░  Active   ▲
+Two Pointers             ████████░░░░░░░░  Active   ▲
+Sliding Window           ███████░░░░░░░░░  Active   ▲
+Stack                    ████████░░░░░░░░  Active   ▲
+Binary Search            ██████░░░░░░░░░░  Active   ▲
+Linked List              █████████░░░░░░░  Active   ▲
+Trees                    ████████░░░░░░░░  Active   ▲
+Tries                    ████░░░░░░░░░░░░  Learning →
+Heap / Priority Queue    ████░░░░░░░░░░░░  Learning →
+Backtracking             ███████░░░░░░░░░  Active   ▲
+Graphs                   █████░░░░░░░░░░░  Learning →
+Dynamic Programming      ██████░░░░░░░░░░  Active   ▲
+Greedy                   ████░░░░░░░░░░░░  Learning →
+Intervals                ████░░░░░░░░░░░░  Learning →
+Math & Geometry          ████░░░░░░░░░░░░  Learning →
+Bit Manipulation         ████░░░░░░░░░░░░  Learning →
 ```
 
-### 🐙 GitHub Activity
+---
+
+## 🏆 Milestones
+
+| Milestone | Status | Notes |
+|-----------|:------:|-------|
+| 🏁 First 25 NeetCode Problems | ✅ | Foundation built |
+| 🔥 50 Problems | ✅ | Patterns clicking |
+| 🎯 Blind 75 — Started | ✅ | Core interview prep |
+| 💥 100 Problems | 🚀 In Progress | — |
+| 🌟 NeetCode 150 — Complete | ⏳ Goal | Full roadmap |
+| 🏆 300+ Problems | 🌠 Goal | Advanced prep |
+| 💎 MAANG-Level Interview Ready | 🌠 Goal | Final target |
+
+---
+
+## 📂 Repository Structure
 
 ```
-⭐ Contributions  : 737 in 2026
-📦 Public Repos   : 14
-💻 April 2026     : 75 commits across 8 repositories
-📝 Activity       : 100% commits · 0% issues · 0% PRs
+📦 neetcode-submissions/
+│
+├── 📁 Data Structures & Algorithms/
+│   │
+│   ├── 📁 arrays-and-hashing/
+│   │   ├── 📁 two-integer-sum/
+│   │   │   ├── submission-0.py       ← First attempt
+│   │   │   └── submission-1.cpp      ← Optimized
+│   │   ├── 📁 valid-anagram/
+│   │   │   └── submission-0.py
+│   │   └── 📁 top-k-frequent-elements/
+│   │       └── submission-0.ts
+│   │
+│   ├── 📁 two-pointers/
+│   ├── 📁 sliding-window/
+│   ├── 📁 stack/
+│   ├── 📁 binary-search/
+│   ├── 📁 linked-list/
+│   ├── 📁 trees/
+│   ├── 📁 tries/
+│   ├── 📁 heap-priority-queue/
+│   ├── 📁 backtracking/
+│   ├── 📁 graphs/
+│   ├── 📁 advanced-graphs/
+│   ├── 📁 dynamic-programming-1d/
+│   ├── 📁 dynamic-programming-2d/
+│   ├── 📁 greedy/
+│   ├── 📁 intervals/
+│   ├── 📁 math-and-geometry/
+│   └── 📁 bit-manipulation/
+│
+└── 📁 Python For Beginners/
+    └── 📁 python-hello-world/
+        └── submission-0.py
 ```
+
+> Each **topic folder** → **problem folder** → `submission-N.<ext>` files. Multiple submissions = iterative improvement visible.
+
+---
+
+## 💻 Languages Used
+
+<div align="center">
+
+| Language | Extension | Purpose |
+|---|---|---|
+| 🐍 Python | `.py` | Rapid prototyping & logic clarity |
+| ⚡ C++ | `.cpp` | Performance-critical, competitive |
+| 🌐 JavaScript | `.js` | Web-focused DSA |
+| 🔷 TypeScript | `.ts` | Typed, structured solutions |
+| ☕ Java | `.java` | OOP & enterprise patterns |
+| 🦀 Rust | `.rs` | Memory-safe, blazing fast |
+| 🐹 Go | `.go` | Concurrency & systems thinking |
+| 🎯 Kotlin | `.kt` | Modern JVM solutions |
+| 🦉 Swift | `.swift` | iOS interview prep |
+| 🗄️ SQL | `.sql` | Database & query problems |
 
 </div>
 
 ---
 
-## 🏅 Badges Earned
-
-| Badge | Description | Status |
-|-------|-------------|:------:|
-| 🔥 **100 Days Badge 2026** | Most Recent — 100+ active days in 2026 | ✅ |
-| 🟢 **3 Year Badge** | 3 years on LeetCode | ✅ |
-| 🥇 **Annual Badge** | Consistent yearly participation | ✅ |
-| 💎 **Feb 2026 Badge** | Active throughout February 2026 | ✅ |
-| 🆕 **5th Badge** | Latest achievement unlocked | ✅ |
-
----
-
-## 💻 Tech Stack
-
-<details>
-<summary><b>🗣️ Languages</b></summary>
-<br>
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🌐 Frontend</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend — MERN & LAMP</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud, DevOps & Security</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-4A90D9?style=flat-square)
-
-</details>
-
----
-
-## 🗂️ Top Languages (GitHub Commits)
-
-```
-Python     ██████████░░░░░░  ~40%   (DSA solutions, scripting)
-C++        ████████░░░░░░░░  ~30%   (LeetCode, competitive)
-JavaScript ████░░░░░░░░░░░░  ~18%   (MERN, web projects)
-C          ██░░░░░░░░░░░░░░   ~8%   (algorithms, systems)
-PHP        █░░░░░░░░░░░░░░░   ~4%   (LAMP stack)
-```
-
----
-
-## 🗺️ Topic Progress
-
-| Topic | Solved | Difficulty Mix | Progress |
-|-------|:------:|----------------|----------|
-| 📦 Arrays & Hashing | ~50 | Easy + Medium + Hard | `████████░░` 80% |
-| 🌳 Trees | ~30 | Easy + Medium + Hard | `███████░░░` 70% |
-| 🔤 Strings & Math | ~25 | Easy + Medium + Hard | `██████░░░░` 60% |
-| 💡 Dynamic Programming | ~22 | Medium + Hard | `█████░░░░░` 50% |
-| 🔗 Linked Lists | ~20 | Easy + Medium | `██████░░░░` 60% |
-| ⚡ Two Pointers / Sliding Window | ~18 | Easy + Medium | `█████░░░░░` 50% |
-| 🔙 Backtracking | ~14 | Medium + Hard | `████░░░░░░` 40% |
-| 🔍 Binary Search | ~12 | Easy + Medium | `████░░░░░░` 40% |
-| 📚 Stack & Queue | ~8 | Easy + Medium | `███░░░░░░░` 30% |
-| 🌐 Graph | ~7 | Medium + Hard | `██░░░░░░░░` 20% |
-
----
-
-## 🕐 Recently Solved
-
-| Problem | Difficulty | When |
-|---------|:----------:|------|
-| Move Zeroes | 🟢 Easy | 8 hours ago |
-| Contains Duplicate | 🟢 Easy | 8 hours ago |
-| Maximum Score From Grid Operations | 🔴 Hard | 8 hours ago |
-| Ugly Number | 🟢 Easy | 1 day ago |
-| Minimum Operations to Make a Uni-Value Grid | 🟡 Medium | 1 day ago |
-| Majority Element | 🟢 Easy | 2 days ago |
-| Check if There is a Valid Path in a Grid | 🟡 Medium | 2 days ago |
-
----
-
-## 📋 Full Problem Tracker — LeetCode #1–155+
+## 🗺️ Full NeetCode Problem Tracker
 
 > **Legend:** ✅ Solved &nbsp;|&nbsp; 🔄 Attempting &nbsp;|&nbsp; ❌ Not Started &nbsp;&nbsp; **Difficulty:** 🟢 Easy · 🟡 Medium · 🔴 Hard
 
 <details>
 <summary><b>📦 Arrays & Hashing</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | ✅ | HashMap complement lookup |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 | ✅ | Write pointer in-place |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 | ✅ | In-place overwrite |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 🟡 | ❌ | 3×HashSet per row/col/box |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 | ❌ | Transpose then reverse rows |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 🟡 | ❌ | Sorted string as key |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 | ❌ | Sort + merge overlap |
-| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | 🟡 | ❌ | Linear scan merge |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 | ✅ | Carry from end |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 | ❌ | First row/col as marker |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 | ✅ | Merge from the end |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 | ✅ | Row = prev row offsets |
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 | ❌ | O(k) space, right to left |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 | ❌ | HashSet, only start streaks |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 | ✅ | XOR all elements |
-| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | 🟡 | ❌ | Bit counting mod 3 |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 | ❌ | Track min and max |
-| 153 | [Find Min in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 | ❌ | Binary search pivot |
-| 154 | [Find Min in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 🔴 | ❌ | Binary search + duplicates |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 | ✅ | Boyer-Moore voting |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 | ✅ | HashSet lookup |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 | ✅ | Two pointer in-place |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Contains Duplicate](https://neetcode.io/problems/duplicate-integer) | 🟢 | ✅ | HashSet lookup |
+| 2 | [Valid Anagram](https://neetcode.io/problems/is-anagram) | 🟢 | ✅ | Frequency count / sorted compare |
+| 3 | [Two Sum](https://neetcode.io/problems/two-integer-sum) | 🟢 | ✅ | HashMap complement |
+| 4 | [Group Anagrams](https://neetcode.io/problems/anagram-groups) | 🟡 | ❌ | Sorted string as key |
+| 5 | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list) | 🟡 | ❌ | Bucket sort / heap |
+| 6 | [Encode and Decode Strings](https://neetcode.io/problems/string-encode-and-decode) | 🟡 | ❌ | Length-prefix encoding |
+| 7 | [Product of Array Except Self](https://neetcode.io/problems/products-of-array-discluding-self) | 🟡 | ❌ | Prefix + suffix product |
+| 8 | [Valid Sudoku](https://neetcode.io/problems/valid-sudoku) | 🟡 | ❌ | 3x HashSet per row/col/box |
+| 9 | [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence) | 🟡 | ❌ | HashSet, start-of-streak only |
 
 </details>
 
 <details>
-<summary><b>🔗 Linked List</b></summary>
+<summary><b>🪟 Two Pointers</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 | ✅ | Carry through nodes |
-| 19 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 | ✅ | Two pointer gap of n |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 | ✅ | Dummy head + compare |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 🔴 | ❌ | Min-heap / divide & conquer |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡 | ❌ | Pointer rewiring |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 🟡 | ❌ | Find length, k mod len |
-| 82 | [Remove Duplicates II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 | ❌ | Prev pointer skip |
-| 83 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 | ❌ | Skip same value nodes |
-| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 🟡 | ❌ | Two dummy lists |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 🟡 | ❌ | Iterative in-place |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 | ❌ | Floyd's tortoise & hare |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 | ❌ | Floyd's + reset one ptr |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 | ❌ | Find mid, reverse, merge |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 🟡 | ❌ | HashMap + Doubly Linked List |
-| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | 🟡 | ❌ | Dummy head insertion |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | 🟡 | ❌ | Merge sort on list |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Valid Palindrome](https://neetcode.io/problems/is-palindrome) | 🟢 | ✅ | Left/right skip non-alnum |
+| 2 | [Two Sum II](https://neetcode.io/problems/two-integer-sum-ii) | 🟡 | ❌ | Shrink from both ends |
+| 3 | [3Sum](https://neetcode.io/problems/three-integer-sum) | 🟡 | ❌ | Sort + 2-pointer inner loop |
+| 4 | [Container With Most Water](https://neetcode.io/problems/max-water-container) | 🟡 | ❌ | Greedy shrink smaller side |
+| 5 | [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water) | 🔴 | ❌ | Two-pointer max tracking |
 
 </details>
 
 <details>
-<summary><b>🪟 Two Pointers & Sliding Window</b></summary>
+<summary><b>🌊 Sliding Window</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 3 | [Longest Substring Without Repeating Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 | ✅ | Sliding window + set |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 🟡 | ✅ | Greedy shrink smaller side |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 | ❌ | Sort + 2-pointer |
-| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 🟡 | ❌ | Sort + track min diff |
-| 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 | ❌ | Sort + 2 loops + 2ptr |
-| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 🔴 | ❌ | Sliding window + freq map |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 | ✅ | Track running min |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | 🟡 | ❌ | Greedy: add every gain |
-| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 🔴 | ❌ | 4-state DP |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 | ❌ | Two pointers, skip non-alnum |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto) | 🟢 | ✅ | Track running min price |
+| 2 | [Longest Substring Without Repeating Chars](https://neetcode.io/problems/longest-substring-without-duplicates) | 🟡 | ✅ | Sliding window + set |
+| 3 | [Longest Repeating Character Replacement](https://neetcode.io/problems/longest-repeating-substring-with-replacement) | 🟡 | ❌ | Window - maxFreq <= k |
+| 4 | [Permutation in String](https://neetcode.io/problems/permutation-string) | 🟡 | ❌ | Fixed-size window freq match |
+| 5 | [Minimum Window Substring](https://neetcode.io/problems/minimum-window-with-characters) | 🔴 | ❌ | Variable window + need counter |
+| 6 | [Sliding Window Maximum](https://neetcode.io/problems/sliding-window-maximum) | 🔴 | ❌ | Monotonic deque |
+
+</details>
+
+<details>
+<summary><b>📚 Stack</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses) | 🟢 | ✅ | Push open, match close |
+| 2 | [Min Stack](https://neetcode.io/problems/minimum-stack) | 🟡 | ✅ | Auxiliary min-tracking stack |
+| 3 | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation) | 🟡 | ❌ | Operand stack |
+| 4 | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses) | 🟡 | ✅ | DFS: open < n, close < open |
+| 5 | [Daily Temperatures](https://neetcode.io/problems/daily-temperatures) | 🟡 | ❌ | Monotonic decreasing stack |
+| 6 | [Car Fleet](https://neetcode.io/problems/car-fleet) | 🟡 | ❌ | Sort by position, stack of times |
+| 7 | [Largest Rectangle in Histogram](https://neetcode.io/problems/largest-rectangle-in-histogram) | 🔴 | ❌ | Monotonic increasing stack |
 
 </details>
 
 <details>
 <summary><b>🔍 Binary Search</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 | ✅ | Find which half is sorted |
-| 34 | [Find First and Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 | ❌ | 2x binary search |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 | ✅ | Classic lower bound |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 | ❌ | BS on answer space |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 | ❌ | Treat as 1D sorted array |
-| 81 | [Search in Rotated Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 | ❌ | Handle duplicates |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 | ✅ | Classic lo/hi/mid template |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Binary Search](https://neetcode.io/problems/binary-search) | 🟢 | ✅ | Classic lo/hi/mid template |
+| 2 | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix) | 🟡 | ❌ | Treat as 1D sorted array |
+| 3 | [Koko Eating Bananas](https://neetcode.io/problems/eating-bananas) | 🟡 | ❌ | Binary search on answer space |
+| 4 | [Find Minimum in Rotated Sorted Array](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) | 🟡 | ❌ | Identify unsorted half |
+| 5 | [Search in Rotated Sorted Array](https://neetcode.io/problems/find-target-in-rotated-sorted-array) | 🟡 | ✅ | Which half is sorted? |
+| 6 | [Time Based Key-Value Store](https://neetcode.io/problems/time-based-key-value-store) | 🟡 | ❌ | Binary search on timestamps |
+| 7 | [Median of Two Sorted Arrays](https://neetcode.io/problems/median-of-two-sorted-arrays) | 🔴 | ❌ | Binary search partition |
+
+</details>
+
+<details>
+<summary><b>🔗 Linked List</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Reverse Linked List](https://neetcode.io/problems/reverse-a-linked-list) | 🟢 | ✅ | Iterative prev/curr swap |
+| 2 | [Merge Two Sorted Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists) | 🟢 | ✅ | Dummy head + compare |
+| 3 | [Reorder List](https://neetcode.io/problems/reorder-linked-list) | 🟡 | ❌ | Find mid, reverse half, merge |
+| 4 | [Remove Nth Node From End](https://neetcode.io/problems/remove-node-from-end-of-linked-list) | 🟡 | ✅ | Two-pointer gap of n |
+| 5 | [Copy List with Random Pointer](https://neetcode.io/problems/copy-linked-list-with-random-pointer) | 🟡 | ❌ | HashMap old to new node |
+| 6 | [Add Two Numbers](https://neetcode.io/problems/add-two-numbers) | 🟡 | ✅ | Carry through nodes |
+| 7 | [Linked List Cycle](https://neetcode.io/problems/linked-list-cycle-detection) | 🟢 | ❌ | Floyd's tortoise and hare |
+| 8 | [Find the Duplicate Number](https://neetcode.io/problems/find-duplicate-integer) | 🟡 | ❌ | Floyd's cycle in array |
+| 9 | [LRU Cache](https://neetcode.io/problems/lru-cache) | 🟡 | ❌ | HashMap + Doubly Linked List |
+| 10 | [Merge K Sorted Lists](https://neetcode.io/problems/merge-k-sorted-linked-lists) | 🔴 | ❌ | Min-heap / divide and conquer |
+| 11 | [Reverse Nodes in k-Group](https://neetcode.io/problems/reverse-nodes-in-k-group) | 🔴 | ❌ | Iterative group reversal |
 
 </details>
 
 <details>
 <summary><b>🌳 Trees</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 🟢 | ✅ | Recursive / iterative stack |
-| 95 | [Unique BSTs II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | 🟡 | ❌ | Recursive enumerate |
-| 96 | [Unique BSTs](https://leetcode.com/problems/unique-binary-search-trees/) | 🟡 | ❌ | Catalan number DP |
-| 98 | [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) | 🟡 | ✅ | Pass min/max bounds |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 | ✅ | Recursive compare |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 🟢 | ✅ | Mirror check DFS |
-| 102 | [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 🟡 | ✅ | BFS with queue |
-| 103 | [Zigzag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | 🟡 | ✅ | BFS + flip direction |
-| 104 | [Maximum Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 | ✅ | max(L,R) + 1 |
-| 105 | [Construct from Preorder & Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 🟡 | ✅ | Root = pre[0], split inorder |
-| 106 | [Construct from Inorder & Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 | ✅ | Root = post[-1] |
-| 107 | [Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 🟡 | ✅ | BFS + reverse result |
-| 108 | [Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | ✅ | Mid as root recursively |
-| 109 | [Sorted List to BST](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | 🟡 | ❌ | Slow-fast pointer for mid |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 | ❌ | Height check DFS |
-| 111 | [Minimum Depth](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 🟢 | ❌ | BFS finds first leaf |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 | ❌ | DFS subtract target |
-| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 🟡 | ❌ | Backtrack + DFS |
-| 114 | [Flatten to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 🟡 | ❌ | Morris traversal |
-| 116 | [Populating Next Right Pointers](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | 🟡 | ❌ | BFS level link |
-| 117 | [Populating Next Right Pointers II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | 🟡 | ❌ | BFS with prev ptr |
-| 124 | [Binary Tree Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | 🔴 | ❌ | DFS return max single path |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 | ❌ | DFS accumulate digits |
-| 144 | [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 🟢 | ❌ | Root → L → R |
-| 145 | [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | 🟢 | ❌ | L → R → Root |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree) | 🟢 | ✅ | Swap L/R recursively |
+| 2 | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree) | 🟢 | ✅ | max(L,R) + 1 |
+| 3 | [Diameter of Binary Tree](https://neetcode.io/problems/binary-tree-diameter) | 🟢 | ❌ | Track L+R at each node |
+| 4 | [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree) | 🟢 | ❌ | Height check DFS |
+| 5 | [Same Tree](https://neetcode.io/problems/same-binary-tree) | 🟢 | ✅ | Recursive compare |
+| 6 | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree) | 🟢 | ❌ | isSame for every node |
+| 7 | [Lowest Common Ancestor of a BST](https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree) | 🟡 | ❌ | BST property navigate |
+| 8 | [Binary Tree Level Order Traversal](https://neetcode.io/problems/level-order-traversal-of-binary-tree) | 🟡 | ✅ | BFS with queue |
+| 9 | [Binary Tree Right Side View](https://neetcode.io/problems/binary-tree-right-side-view) | 🟡 | ❌ | BFS last element per level |
+| 10 | [Count Good Nodes in Binary Tree](https://neetcode.io/problems/count-good-nodes-in-binary-tree) | 🟡 | ❌ | DFS track running max |
+| 11 | [Validate Binary Search Tree](https://neetcode.io/problems/valid-binary-search-tree) | 🟡 | ✅ | Pass min/max bounds |
+| 12 | [Kth Smallest Element in a BST](https://neetcode.io/problems/kth-smallest-integer-in-bst) | 🟡 | ❌ | Inorder traversal |
+| 13 | [Construct Binary Tree from Preorder and Inorder](https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal) | 🟡 | ✅ | Root = pre[0], split inorder |
+| 14 | [Binary Tree Maximum Path Sum](https://neetcode.io/problems/binary-tree-maximum-path-sum) | 🔴 | ❌ | DFS return max single-arm |
+| 15 | [Serialize and Deserialize Binary Tree](https://neetcode.io/problems/serialize-and-deserialize-binary-tree) | 🔴 | ❌ | BFS with null markers |
 
 </details>
 
 <details>
-<summary><b>💡 Dynamic Programming</b></summary>
+<summary><b>🔡 Tries</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 🟡 | ✅ | Expand around center |
-| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 | ✅ | 2D DP table |
-| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 | ❌ | DP or stack |
-| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 | ❌ | 2D DP like regex |
-| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | 🟡 | ❌ | Greedy BFS levels |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 | ✅ | Kadane's algorithm |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | 🟡 | ❌ | Track max reachable |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 🟡 | ❌ | dp[i][j] = dp[i-1][j] + dp[i][j-1] |
-| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | 🟡 | ❌ | Same + obstacles = 0 |
-| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 | ❌ | dp[i][j] = min(top,left) + grid |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 | ✅ | Fibonacci DP |
-| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 | ❌ | dp[i] depends on 1 or 2 chars |
-| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 | ❌ | 2D DP |
-| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | 🔴 | ❌ | dp[i][j] count |
-| 120 | [Triangle](https://leetcode.com/problems/triangle/) | 🟡 | ❌ | Bottom-up DP |
-| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 | ❌ | DP min cuts |
-| 139 | [Word Break](https://leetcode.com/problems/word-break/) | 🟡 | ❌ | dp[i] = any valid split |
-| 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | 🔴 | ❌ | Memo + backtrack |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 | ❌ | Track min and max products |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Implement Trie (Prefix Tree)](https://neetcode.io/problems/implement-prefix-tree) | 🟡 | ❌ | TrieNode children map + isEnd |
+| 2 | [Design Add and Search Words](https://neetcode.io/problems/design-word-search-data-structure) | 🟡 | ❌ | Trie + DFS for '.' wildcard |
+| 3 | [Word Search II](https://neetcode.io/problems/search-for-word-ii) | 🔴 | ❌ | Trie + DFS on grid |
+
+</details>
+
+<details>
+<summary><b>⛰️ Heap / Priority Queue</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Kth Largest Element in a Stream](https://neetcode.io/problems/kth-largest-integer-in-a-stream) | 🟢 | ❌ | Min-heap of size k |
+| 2 | [Last Stone Weight](https://neetcode.io/problems/last-stone-weight) | 🟢 | ❌ | Max-heap simulation |
+| 3 | [K Closest Points to Origin](https://neetcode.io/problems/k-closest-points-to-the-origin) | 🟡 | ❌ | Min-heap by distance |
+| 4 | [Kth Largest Element in an Array](https://neetcode.io/problems/kth-largest-element-in-an-array) | 🟡 | ❌ | Min-heap size k / Quickselect |
+| 5 | [Task Scheduler](https://neetcode.io/problems/task-scheduling) | 🟡 | ❌ | Max-heap + cooldown queue |
+| 6 | [Design Twitter](https://neetcode.io/problems/design-twitter-feed) | 🟡 | ❌ | Heap merge k sorted lists |
+| 7 | [Find Median from Data Stream](https://neetcode.io/problems/find-median-in-a-data-stream) | 🔴 | ❌ | Two heaps: max-left + min-right |
 
 </details>
 
 <details>
 <summary><b>🔙 Backtracking</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 17 | [Letter Combinations of Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 | ✅ | DFS each digit's letters |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 | ✅ | Open < n, close < open |
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 🔴 | ❌ | Backtrack each empty cell |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | 🟡 | ❌ | Iterative run-length encoding |
-| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 | ✅ | DFS, reuse elements |
-| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 🟡 | ❌ | Sort + skip duplicates |
-| 46 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 | ✅ | Swap + backtrack |
-| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 🟡 | ❌ | Sort + skip used |
-| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | 🔴 | ❌ | Row by row, check cols/diags |
-| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | 🔴 | ❌ | Count solutions only |
-| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | 🔴 | ❌ | Factorial number system |
-| 77 | [Combinations](https://leetcode.com/problems/combinations/) | 🟡 | ❌ | DFS choose k from n |
-| 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 | ✅ | Include/exclude each element |
-| 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 | ❌ | DFS grid + visited |
-| 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | 🟡 | ❌ | i XOR (i >> 1) |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 | ❌ | Sort + skip duplicate picks |
-| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | 🟡 | ❌ | Backtrack 4 segments |
-| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 | ❌ | DFS + palindrome check |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Subsets](https://neetcode.io/problems/subsets) | 🟡 | ✅ | Include/exclude each element |
+| 2 | [Combination Sum](https://neetcode.io/problems/combination-target-sum) | 🟡 | ✅ | DFS, reuse elements |
+| 3 | [Permutations](https://neetcode.io/problems/permutations) | 🟡 | ✅ | Swap + backtrack |
+| 4 | [Subsets II](https://neetcode.io/problems/subsets-ii) | 🟡 | ❌ | Sort + skip dup picks |
+| 5 | [Combination Sum II](https://neetcode.io/problems/combination-sum-ii) | 🟡 | ❌ | Sort + skip used duplicates |
+| 6 | [Word Search](https://neetcode.io/problems/search-for-word) | 🟡 | ❌ | DFS grid + visited mark |
+| 7 | [Palindrome Partitioning](https://neetcode.io/problems/palindrome-partitioning) | 🟡 | ❌ | DFS + palindrome check |
+| 8 | [Letter Combinations of a Phone Number](https://neetcode.io/problems/combinations-of-a-phone-number) | 🟡 | ✅ | DFS each digit's letters |
+| 9 | [N-Queens](https://neetcode.io/problems/n-queens) | 🔴 | ❌ | Row by row, check cols/diags |
 
 </details>
 
 <details>
-<summary><b>📚 Stack & Queue</b></summary>
+<summary><b>🌐 Graphs</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 | ✅ | Push open, match close |
-| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | 🟡 | ❌ | Stack for directory names |
-| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 | ❌ | Monotonic increasing stack |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 | ❌ | Histogram DP per row |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 🟡 | ❌ | Operand stack |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 🟡 | ✅ | Auxiliary min-stack |
-
-</details>
-
-<details>
-<summary><b>🔤 Strings & Math</b></summary>
-
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 | ❌ | Binary search partition |
-| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 | ❌ | Simulate rows |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 | ✅ | Mod + overflow check |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 | ❌ | Handle all edge cases |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 | ✅ | Reverse half digits |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 | ❌ | Greedy from largest symbol |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 | ✅ | Subtract if less than next |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 | ✅ | Vertical scan |
-| 28 | [Find Index of First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | ✅ | KMP or indexOf |
-| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 🟡 | ❌ | Bit shifting |
-| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 🟡 | ❌ | Grade school multiplication |
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 | ✅ | Fast exponentiation |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 | ✅ | Trim + scan from end |
-| 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | 🔴 | ❌ | State machine |
-| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 | ❌ | Bit-by-bit with carry |
-| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | 🔴 | ❌ | Greedy space distribution |
-| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 🟡 | ❌ | Classic 2D DP |
-| 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 | ❌ | Memo + recursion |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Number of Islands](https://neetcode.io/problems/count-number-of-islands) | 🟡 | ❌ | DFS/BFS flood fill |
+| 2 | [Clone Graph](https://neetcode.io/problems/clone-graph) | 🟡 | ❌ | DFS + HashMap old to new |
+| 3 | [Max Area of Island](https://neetcode.io/problems/max-area-of-island) | 🟡 | ❌ | DFS return size |
+| 4 | [Pacific Atlantic Water Flow](https://neetcode.io/problems/pacific-atlantic-water-flow) | 🟡 | ❌ | Reverse BFS from both coasts |
+| 5 | [Surrounded Regions](https://neetcode.io/problems/surrounded-regions) | 🟡 | ❌ | DFS from border O's |
+| 6 | [Rotting Oranges](https://neetcode.io/problems/rotting-fruit) | 🟡 | ❌ | Multi-source BFS |
+| 7 | [Walls and Gates](https://neetcode.io/problems/islands-and-treasure) | 🟡 | ❌ | Multi-source BFS from gates |
+| 8 | [Course Schedule](https://neetcode.io/problems/course-schedule) | 🟡 | ❌ | Topological sort / cycle detect |
+| 9 | [Course Schedule II](https://neetcode.io/problems/course-schedule-ii) | 🟡 | ❌ | Kahn's or DFS topo sort |
+| 10 | [Graph Valid Tree](https://neetcode.io/problems/valid-tree) | 🟡 | ❌ | n-1 edges + no cycle + connected |
+| 11 | [Number of Connected Components](https://neetcode.io/problems/count-connected-components) | 🟡 | ❌ | Union-Find or DFS count |
+| 12 | [Redundant Connection](https://neetcode.io/problems/redundant-connection) | 🟡 | ❌ | Union-Find detect cycle |
+| 13 | [Word Ladder](https://neetcode.io/problems/word-ladder) | 🔴 | ❌ | BFS with one-char swaps |
 
 </details>
 
 <details>
-<summary><b>🌐 Graph</b></summary>
+<summary><b>🔮 Advanced Graphs</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | 🔴 | ❌ | BFS + backtrack paths |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | 🔴 | ❌ | BFS with word swaps |
-| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 | ❌ | DFS from border O's |
-| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 🟡 | ❌ | DFS + HashMap clone |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 | ❌ | DFS flood fill |
-| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 🟡 | ❌ | Topological sort / cycle detect |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Reconstruct Itinerary](https://neetcode.io/problems/reconstruct-flight-path) | 🔴 | ❌ | Hierholzer's Eulerian path |
+| 2 | [Min Cost to Connect All Points](https://neetcode.io/problems/min-cost-to-connect-points) | 🟡 | ❌ | Prim's MST |
+| 3 | [Network Delay Time](https://neetcode.io/problems/network-delay-time) | 🟡 | ❌ | Dijkstra's SSSP |
+| 4 | [Swim in Rising Water](https://neetcode.io/problems/swim-in-rising-water) | 🔴 | ❌ | Dijkstra / binary search |
+| 5 | [Alien Dictionary](https://neetcode.io/problems/foreign-dictionary) | 🔴 | ❌ | Topological sort on chars |
+| 6 | [Cheapest Flights Within K Stops](https://neetcode.io/problems/cheapest-flight-path) | 🟡 | ❌ | Bellman-Ford k iterations |
 
 </details>
 
 <details>
-<summary><b>🔩 Sorting & Greedy</b></summary>
+<summary><b>💡 1-D Dynamic Programming</b></summary>
 
-| # | Problem | Diff | Status | Key Idea |
-|---|---------|:----:|:------:|----------|
-| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 🔴 | ❌ | Cyclic sort in-place |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 🔴 | ❌ | Two pointer or prefix max |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 | ❌ | Dutch National Flag |
-| 80 | [Remove Duplicates II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 🟡 | ❌ | Allow at most 2 |
-| 135 | [Candy](https://leetcode.com/problems/candy/) | 🔴 | ❌ | Two-pass greedy |
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Climbing Stairs](https://neetcode.io/problems/climbing-stairs) | 🟢 | ✅ | Fibonacci DP |
+| 2 | [Min Cost Climbing Stairs](https://neetcode.io/problems/min-cost-climbing-stairs) | 🟢 | ❌ | dp[i] = cost[i] + min previous two |
+| 3 | [House Robber](https://neetcode.io/problems/house-robber) | 🟡 | ❌ | dp[i] = max(rob, skip) |
+| 4 | [House Robber II](https://neetcode.io/problems/house-robber-ii) | 🟡 | ❌ | Two linear passes (skip first/last) |
+| 5 | [Longest Palindromic Substring](https://neetcode.io/problems/longest-palindromic-substring) | 🟡 | ✅ | Expand around center |
+| 6 | [Palindromic Substrings](https://neetcode.io/problems/palindromic-substrings) | 🟡 | ❌ | Count all center expansions |
+| 7 | [Decode Ways](https://neetcode.io/problems/decode-ways) | 🟡 | ❌ | dp[i] depends on 1 or 2 chars |
+| 8 | [Coin Change](https://neetcode.io/problems/coin-change) | 🟡 | ❌ | Bottom-up BFS on amounts |
+| 9 | [Maximum Product Subarray](https://neetcode.io/problems/maximum-product-subarray) | 🟡 | ❌ | Track min and max products |
+| 10 | [Word Break](https://neetcode.io/problems/word-break) | 🟡 | ❌ | dp[i] = any valid split |
+| 11 | [Longest Increasing Subsequence](https://neetcode.io/problems/longest-increasing-subsequence) | 🟡 | ❌ | dp[i] = max LIS ending at i |
+| 12 | [Partition Equal Subset Sum](https://neetcode.io/problems/partition-equal-subset-sum) | 🟡 | ❌ | Subset sum DP |
+
+</details>
+
+<details>
+<summary><b>📐 2-D Dynamic Programming</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Unique Paths](https://neetcode.io/problems/count-paths) | 🟡 | ❌ | dp[i][j] = sum of top and left |
+| 2 | [Longest Common Subsequence](https://neetcode.io/problems/longest-common-subsequence) | 🟡 | ❌ | Classic 2D table |
+| 3 | [Best Time to Buy Stock with Cooldown](https://neetcode.io/problems/buy-and-sell-stock-with-cooldown) | 🟡 | ❌ | 3-state DP |
+| 4 | [Coin Change II](https://neetcode.io/problems/coin-change-ii) | 🟡 | ❌ | Unbounded knapsack |
+| 5 | [Target Sum](https://neetcode.io/problems/target-sum) | 🟡 | ❌ | Subset sum with +/- assign |
+| 6 | [Interleaving String](https://neetcode.io/problems/interleaving-string) | 🟡 | ❌ | 2D DP grid |
+| 7 | [Longest Increasing Path in a Matrix](https://neetcode.io/problems/longest-increasing-path-in-matrix) | 🔴 | ❌ | DFS + memoization |
+| 8 | [Distinct Subsequences](https://neetcode.io/problems/distinct-subsequences) | 🔴 | ❌ | dp[i][j] count table |
+| 9 | [Edit Distance](https://neetcode.io/problems/edit-distance) | 🟡 | ❌ | 3-operation DP |
+| 10 | [Burst Balloons](https://neetcode.io/problems/burst-balloons) | 🔴 | ❌ | Interval DP |
+| 11 | [Regular Expression Matching](https://neetcode.io/problems/regular-expression-matching) | 🔴 | ✅ | 2D DP table |
+
+</details>
+
+<details>
+<summary><b>🤑 Greedy</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Maximum Subarray](https://neetcode.io/problems/maximum-subarray) | 🟡 | ✅ | Kadane's algorithm |
+| 2 | [Jump Game](https://neetcode.io/problems/jump-game) | 🟡 | ❌ | Track max reachable index |
+| 3 | [Jump Game II](https://neetcode.io/problems/jump-game-ii) | 🟡 | ❌ | Greedy BFS levels |
+| 4 | [Gas Station](https://neetcode.io/problems/gas-station) | 🟡 | ❌ | Reset start on deficit |
+| 5 | [Hand of Straights](https://neetcode.io/problems/hand-of-straights) | 🟡 | ❌ | Sorted map + consume groups |
+| 6 | [Merge Triplets to Form Target](https://neetcode.io/problems/merge-triplets-to-form-target-triplet) | 🟡 | ❌ | Greedily select valid triplets |
+| 7 | [Partition Labels](https://neetcode.io/problems/partition-labels) | 🟡 | ❌ | Last index map + extend boundary |
+| 8 | [Valid Parenthesis String](https://neetcode.io/problems/valid-parenthesis-string) | 🟡 | ❌ | Track min/max open count |
+
+</details>
+
+<details>
+<summary><b>📅 Intervals</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Insert Interval](https://neetcode.io/problems/insert-new-interval) | 🟡 | ❌ | Linear scan + merge |
+| 2 | [Merge Intervals](https://neetcode.io/problems/merge-intervals) | 🟡 | ❌ | Sort by start + merge overlaps |
+| 3 | [Non-Overlapping Intervals](https://neetcode.io/problems/non-overlapping-intervals) | 🟡 | ❌ | Sort by end + greedy remove |
+| 4 | [Meeting Rooms](https://neetcode.io/problems/meeting-schedule) | 🟢 | ❌ | Sort by start, check overlap |
+| 5 | [Meeting Rooms II](https://neetcode.io/problems/meeting-schedule-ii) | 🟡 | ❌ | Min-heap of end times |
+| 6 | [Minimum Interval Including Query](https://neetcode.io/problems/minimum-interval-including-query) | 🔴 | ❌ | Sort + sweep + heap |
+
+</details>
+
+<details>
+<summary><b>🔢 Math & Geometry</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Rotate Image](https://neetcode.io/problems/rotate-matrix) | 🟡 | ❌ | Transpose then reverse rows |
+| 2 | [Spiral Matrix](https://neetcode.io/problems/spiral-matrix) | 🟡 | ❌ | Shrink boundary simulation |
+| 3 | [Set Matrix Zeroes](https://neetcode.io/problems/zero-matrix) | 🟡 | ❌ | First row/col as marker |
+| 4 | [Happy Number](https://neetcode.io/problems/happy-number) | 🟢 | ❌ | Floyd's cycle or HashSet |
+| 5 | [Plus One](https://neetcode.io/problems/increment-large-integer) | 🟢 | ✅ | Carry from end |
+| 6 | [Pow(x, n)](https://neetcode.io/problems/pow-x-n) | 🟡 | ✅ | Fast exponentiation |
+| 7 | [Multiply Strings](https://neetcode.io/problems/multiply-strings) | 🟡 | ❌ | Grade school digit multiply |
+| 8 | [Detect Squares](https://neetcode.io/problems/count-squares) | 🟡 | ❌ | Count point pairs on axis |
+
+</details>
+
+<details>
+<summary><b>🔩 Bit Manipulation</b></summary>
+
+| # | Problem | Diff | Status | Key Pattern |
+|---|---------|:----:|:------:|-------------|
+| 1 | [Single Number](https://neetcode.io/problems/single-number) | 🟢 | ✅ | XOR all elements |
+| 2 | [Number of 1 Bits](https://neetcode.io/problems/number-of-one-bits) | 🟢 | ❌ | n & (n-1) clears lowest bit |
+| 3 | [Counting Bits](https://neetcode.io/problems/counting-bits) | 🟢 | ❌ | dp[i] = dp[i >> 1] + (i & 1) |
+| 4 | [Reverse Bits](https://neetcode.io/problems/reverse-bits) | 🟢 | ❌ | Shift and OR |
+| 5 | [Missing Number](https://neetcode.io/problems/missing-number) | 🟢 | ❌ | XOR 0..n with array |
+| 6 | [Sum of Two Integers](https://neetcode.io/problems/sum-of-two-integers) | 🟡 | ❌ | XOR + carry with AND shifted left |
+| 7 | [Reverse Integer](https://neetcode.io/problems/reverse-integer) | 🟡 | ✅ | Mod + overflow check |
 
 </details>
 
 ---
 
-## 🧠 Algorithm Templates (C++)
+## 🧠 Algorithm Templates (Python + C++)
 
 <details>
 <summary>🔍 Binary Search</summary>
 
+```python
+# Python
+def binary_search(arr, target):
+    lo, hi = 0, len(arr) - 1
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        if arr[mid] == target: return mid
+        elif arr[mid] < target: lo = mid + 1
+        else: hi = mid - 1
+    return -1
+```
+
 ```cpp
+// C++
 int lo = 0, hi = n - 1;
 while (lo <= hi) {
     int mid = lo + (hi - lo) / 2;
@@ -456,251 +508,249 @@ return -1;
 </details>
 
 <details>
-<summary>👆 Two Pointers</summary>
-
-```cpp
-int left = 0, right = n - 1;
-while (left < right) {
-    if (condition) left++;
-    else right--;
-}
-```
-</details>
-
-<details>
 <summary>🪟 Sliding Window</summary>
 
-```cpp
-int left = 0;
-for (int right = 0; right < n; right++) {
-    // expand window
-    while (/* window invalid */) {
-        left++;  // shrink window
-    }
-    // update answer
-}
+```python
+# Python - Variable Window
+left = 0
+for right in range(len(s)):
+    # expand window: process s[right]
+    while window_invalid:
+        left += 1  # shrink from left
+    # update answer with window [left, right]
 ```
 </details>
 
 <details>
 <summary>🌳 DFS — Tree</summary>
 
-```cpp
-void dfs(TreeNode* root) {
-    if (!root) return;
-    // preorder  → process here
-    dfs(root->left);
-    // inorder   → process here
-    dfs(root->right);
-    // postorder → process here
-}
+```python
+# Python
+def dfs(node):
+    if not node: return
+    # preorder  -> process here
+    dfs(node.left)
+    # inorder   -> process here
+    dfs(node.right)
+    # postorder -> process here
 ```
 </details>
 
 <details>
 <summary>🌊 BFS — Level Order</summary>
 
-```cpp
-queue<TreeNode*> q;
-q.push(root);
-while (!q.empty()) {
-    int sz = q.size();
-    for (int i = 0; i < sz; i++) {
-        auto node = q.front(); q.pop();
-        if (node->left)  q.push(node->left);
-        if (node->right) q.push(node->right);
-    }
-}
+```python
+# Python
+from collections import deque
+q = deque([root])
+while q:
+    for _ in range(len(q)):
+        node = q.popleft()
+        if node.left:  q.append(node.left)
+        if node.right: q.append(node.right)
 ```
 </details>
 
 <details>
 <summary>🔙 Backtracking</summary>
 
-```cpp
-void backtrack(vector<int>& path, ...) {
-    if (base_case) {
-        result.push_back(path);
-        return;
-    }
-    for (auto& choice : choices) {
-        path.push_back(choice);   // make choice
-        backtrack(path, ...);     // recurse
-        path.pop_back();          // undo choice
-    }
-}
+```python
+# Python
+def backtrack(path, start):
+    if base_case:
+        result.append(path[:])
+        return
+    for i in range(start, len(choices)):
+        path.append(choices[i])     # make choice
+        backtrack(path, i + 1)      # recurse
+        path.pop()                  # undo choice
 ```
 </details>
 
 <details>
 <summary>💡 Dynamic Programming</summary>
 
-```cpp
-// 1D DP
-vector<int> dp(n + 1, 0);
-dp[0] = base_case;
-for (int i = 1; i <= n; i++)
-    dp[i] = f(dp[i-1], dp[i-2]);
+```python
+# 1D DP
+dp = [0] * (n + 1)
+dp[0] = base_case
+for i in range(1, n + 1):
+    dp[i] = f(dp[i-1], dp[i-2])
 
-// 2D DP
-vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
-for (int i = 1; i <= m; i++)
-    for (int j = 1; j <= n; j++)
-        dp[i][j] = f(dp[i-1][j], dp[i][j-1]);
+# 2D DP
+dp = [[0] * (n+1) for _ in range(m+1)]
+for i in range(1, m+1):
+    for j in range(1, n+1):
+        dp[i][j] = f(dp[i-1][j], dp[i][j-1])
 ```
 </details>
 
 <details>
-<summary>🌐 Graph — DFS/BFS</summary>
+<summary>🌐 Graph — DFS + BFS</summary>
 
-```cpp
-// DFS (iterative)
-void dfs(int node, vector<vector<int>>& adj, vector<bool>& visited) {
-    stack<int> st;
-    st.push(node);
-    while (!st.empty()) {
-        int cur = st.top(); st.pop();
-        if (visited[cur]) continue;
-        visited[cur] = true;
-        for (int nb : adj[cur]) st.push(nb);
-    }
-}
+```python
+# DFS (recursive)
+def dfs(node, visited, adj):
+    visited.add(node)
+    for nb in adj[node]:
+        if nb not in visited:
+            dfs(nb, visited, adj)
 
-// BFS
-void bfs(int src, vector<vector<int>>& adj, vector<int>& dist) {
-    queue<int> q;
-    q.push(src); dist[src] = 0;
-    while (!q.empty()) {
-        int cur = q.front(); q.pop();
-        for (int nb : adj[cur])
-            if (dist[nb] == -1) { dist[nb] = dist[cur]+1; q.push(nb); }
-    }
-}
+# BFS
+from collections import deque
+def bfs(src, adj):
+    dist = {src: 0}
+    q = deque([src])
+    while q:
+        cur = q.popleft()
+        for nb in adj[cur]:
+            if nb not in dist:
+                dist[nb] = dist[cur] + 1
+                q.append(nb)
 ```
 </details>
 
 <details>
-<summary>🔐 OWASP Top 10 — Quick Reference</summary>
+<summary>🔗 Union-Find (DSU)</summary>
 
-```
-A01 — Broken Access Control       → Always validate auth server-side
-A02 — Cryptographic Failures      → Use HTTPS, hash passwords (bcrypt)
-A03 — Injection                   → Parameterized queries, input sanitization
-A04 — Insecure Design             → Threat modeling, secure SDLC
-A05 — Security Misconfiguration   → Disable defaults, least privilege
-A06 — Vulnerable Components       → Keep deps updated (npm audit, pip-audit)
-A07 — Identity & Auth Failures    → MFA, strong session management
-A08 — Software Integrity Failures → Verify CI/CD pipeline integrity
-A09 — Logging & Monitoring        → Log auth events, set up alerts
-A10 — SSRF                        → Validate/sanitize all server requests
+```python
+# Python
+class UnionFind:
+    def __init__(self, n):
+        self.parent = list(range(n))
+        self.rank = [0] * n
+
+    def find(self, x):
+        if self.parent[x] != x:
+            self.parent[x] = self.find(self.parent[x])
+        return self.parent[x]
+
+    def union(self, x, y):
+        px, py = self.find(x), self.find(y)
+        if px == py: return False
+        if self.rank[px] < self.rank[py]: px, py = py, px
+        self.parent[py] = px
+        if self.rank[px] == self.rank[py]: self.rank[px] += 1
+        return True
 ```
 </details>
 
 <details>
-<summary>🐳 DevOps / DevSecOps Cheatsheet</summary>
+<summary>🔡 Trie</summary>
 
-```bash
-# Docker basics
-docker build -t myapp .
-docker run -d -p 3000:3000 myapp
-docker-compose up -d
+```python
+# Python
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        self.is_end = False
 
-# Git secure workflow
-git clone <repo>
-git checkout -b feature/secure-login
-git add . && git commit -m "feat: add JWT auth with refresh tokens"
-git push origin feature/secure-login
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
 
-# AWS CLI basics
-aws s3 ls
-aws ec2 describe-instances
-aws iam list-users   # always audit IAM!
+    def insert(self, word):
+        node = self.root
+        for ch in word:
+            if ch not in node.children:
+                node.children[ch] = TrieNode()
+            node = node.children[ch]
+        node.is_end = True
 
-# Linux hardening
-chmod 600 ~/.ssh/authorized_keys
-ufw enable
-fail2ban-client status
+    def search(self, word):
+        node = self.root
+        for ch in word:
+            if ch not in node.children: return False
+            node = node.children[ch]
+        return node.is_end
 ```
 </details>
+
+---
+
+## 🔄 How GitHub Sync Works
+
+```
+You submit on NeetCode.io
+        |
+        v
+NeetCode validates your solution  [PASS]
+        |
+        v
+GitHub Integration auto-commits to this repo
+        |
+        v
+Solution lands under correct topic/problem folder
+        |
+        v
+Progress is tracked publicly -- forever.
+```
+
+**Setup in 3 steps:**
+1. Connect your GitHub at [neetcode.io/profile/github](https://neetcode.io/profile/github)
+2. Enable **Auto-commit** for accepted or all submissions
+3. Use **Bulk Sync** to import all past solutions instantly
 
 ---
 
 ## 📅 10-Week Study Plan
 
-| Week | Focus Area | Target Problems |
-|:----:|-----------|-----------------|
-| 1 | 📦 Arrays + Hashing | 1, 26, 27, 49, 56, 88, 128, 136, 169, 217, 283 |
-| 2 | 🪟 Two Pointers + Sliding Window | 3, 11, 15, 76, 121, 125 |
-| 3 | 🔍 Binary Search | 33, 34, 35, 69, 74, 153, 704 |
-| 4 | 🔗 Linked Lists | 2, 19, 21, 23, 141, 142, 146 |
-| 5 | 📚 Stacks + Queues | 20, 71, 84, 85, 150, 155 |
-| 6 | 🌳 Trees DFS/BFS | 94, 98, 100–108, 110–113, 124 |
-| 7 | 🔙 Backtracking | 17, 22, 39, 46, 51, 77, 78 |
-| 8 | 💡 Dynamic Programming | 5, 53, 62, 70, 91, 120, 139 |
-| 9 | 🌐 Graphs + Advanced | 127, 130, 133, 200, 207, 42 |
-| 10 | 🔴 Hard Review + Mock Interviews | All hard problems revisited |
+| Week | Focus Area | Topics |
+|:----:|-----------|--------|
+| 1 | Arrays + Hashing | Contains Duplicate, Two Sum, Group Anagrams, Top K, Product Except Self |
+| 2 | Two Pointers + Sliding Window | 3Sum, Container w/ Water, Longest Substring, Min Window |
+| 3 | Binary Search | Binary Search, 2D Matrix, Rotated Array, Median of Two Arrays |
+| 4 | Stack | Valid Parentheses, Min Stack, Daily Temperatures, Largest Histogram |
+| 5 | Linked List | Reverse, Merge, Reorder, LRU Cache, Merge K Sorted |
+| 6 | Trees | Invert, Diameter, LCA, Level Order, Serialize/Deserialize |
+| 7 | Backtracking + Tries | Subsets, Permutations, N-Queens, Implement Trie, Word Search II |
+| 8 | Heap + Graphs | Median Stream, Islands, Clone Graph, Course Schedule, Dijkstra |
+| 9 | 1D + 2D DP | Climbing Stairs, Coin Change, LCS, Edit Distance, Burst Balloons |
+| 10 | Greedy + Intervals + Bit | Jump Game, Gas Station, Merge Intervals, XOR patterns |
 
 ---
 
-## 🏆 Milestones
+## 💼 Why This Repo Matters *(For Recruiters)*
 
-| Milestone | Status | Date |
-|-----------|:------:|------|
-| 25 Solved | ✅ | 2024 |
-| 50 Solved | ✅ | 2024 |
-| 100 Solved | ✅ | 2025 |
-| 200 Solved | ✅ | 2025 |
-| 299 Solved | ✅ | Apr 2026 |
-| **360 Solved — Current 🔥** | ✅ | **Apr 29, 2026** |
-| 500 Solved | 🔄 In Progress | Goal: Jun 2026 |
-| 🔥 **122-Day Streak** | ✅ | **Current!** |
-| 🏅 **5 Badges Earned** | ✅ | **Apr 2026** |
-| Rank < 300,000 | 🔄 In Progress | Goal: May 2026 |
-| Complete OWASP Top 10 Lab | 🔄 In Progress | — |
-| AWS Certified Cloud Practitioner | ❌ Goal | — |
-| Docker + CI/CD Pipeline Project | ❌ Goal | — |
-| 1000 GitHub Contributions 2026 | 🔄 In Progress | — |
+> This isn't just a collection of code — it's a **window into how I think**.
+
+```
+What you're actually seeing:
+  |-- Consistency      : Daily commits, not cramming bursts
+  |-- Pattern Thinking : NeetCode roadmap = systematic, not random
+  |-- Optimization     : Multiple submissions = iterative improvement
+  |-- Breadth          : 10+ language implementations
+  |-- Structure        : Clean folder org = engineering discipline
+  `-- Discipline       : Public accountability = real commitment
+```
+
+**If you're a recruiter or hiring engineer:** this repo demonstrates the habits of someone who shows up every day, writes clean code, and improves relentlessly. That's not a claim — it's a commit history.
 
 ---
 
 ## 📚 Resources
 
-### DSA
-
 | Resource | Purpose |
 |----------|---------|
-| [LeetCode](https://leetcode.com) | Practice platform |
-| [NeetCode](https://neetcode.io) | Roadmap + video walkthroughs |
+| [NeetCode.io](https://neetcode.io) | Roadmap + video walkthroughs |
+| [NeetCode Blind 75](https://neetcode.io/practice) | Core 75 interview problems |
+| [NeetCode 150](https://neetcode.io/practice) | Extended 150 problem set |
 | [CP-Algorithms](https://cp-algorithms.com) | Theory deep dives |
 | [Visualgo](https://visualgo.net) | Algorithm animations |
 | [Big-O Cheat Sheet](https://bigocheatsheet.com) | Complexity reference |
 | [Striver's SDE Sheet](https://takeuforward.org) | Top 450 interview questions |
-| [CSES Problem Set](https://cses.fi/problemset/) | Competitive programming |
-
-### Security & DevSecOps
-
-| Resource | Purpose |
-|----------|---------|
-| [OWASP](https://owasp.org) | Web security standards |
-| [HackTheBox](https://hackthebox.com) | Cybersecurity labs |
-| [TryHackMe](https://tryhackme.com) | Beginner-friendly CTF |
-| [PortSwigger Web Academy](https://portswigger.net/web-security) | Free web security labs |
-| [AWS Skill Builder](https://skillbuilder.aws) | Cloud learning |
-| [Docker Docs](https://docs.docker.com) | Container mastery |
 
 ---
 
-## 🗂️ My Projects & Repos
+## 🎯 Future Goals
 
-| Repository | Description | Language |
-|------------|-------------|----------|
-| [DSA-Journey-2026](https://github.com/ajitdev01/DSA-Journey-2026) | This tracker | Multi |
-| [python-core-to-advanced](https://github.com/ajitdev01/python-core-to-adva-) | Python deep dive | Python |
-| [C-Programming-Journey](https://github.com/ajitdev01/C-Programming-Jour-) | C fundamentals | C |
-| [JavaScript-Core-to-Advanced](https://github.com/ajitdev01) | JS mastery | JavaScript |
-| [TypeScript-zero-to-advanced](https://github.com/ajitdev01) | TS from scratch | TypeScript |
-| [Bootstrap-Frontend-Journey](https://github.com/ajitdev01) | Responsive UI | HTML/CSS |
-| [CSS](https://github.com/ajitdev01) | All CSS topics | HTML/CSS |
+- [ ] Complete the full **NeetCode Blind 75**
+- [ ] Complete the full **NeetCode 150**
+- [ ] Solve **300+ problems** across all topic categories
+- [ ] Implement key solutions in **3+ languages** each
+- [ ] Master advanced topics: **Graphs, DP, Tries, Segment Trees**
+- [ ] Build & publish a **DSA pattern cheatsheet**
+- [ ] Crack a **MAANG-level** technical interview
 
 ---
 
@@ -708,22 +758,22 @@ fail2ban-client status
 
 ## 🔥 Current Status
 
-**122-Day Streak · 360 Problems Solved · Rank #342,312**
+**NeetCode Blind 75 — In Progress · 10+ Languages · Daily Commits**
 
-**973 Submissions · 5 Badges · 737 GitHub Contributions in 2026**
-
----
-
-*MERN · LAMP · AWS · Docker · DevSecOps · Cybersecurity*
-
-*"The more I practice, the luckier I get."*
+**Full Stack Dev · Cloud & Security Learner · Future Software Engineer**
 
 ---
 
-[⭐ Star this repo](https://github.com/ajitdev01/DSA-Journey-2026) &nbsp;·&nbsp; [ajitdev01 on LeetCode](https://leetcode.com/ajitdev01) &nbsp;·&nbsp; Made with 💪 in India 🇮🇳
+*MERN · LAMP · AWS · Docker · DevSecOps*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+*"The journey of a thousand algorithms begins with a single commit."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajitdev01.DSA-Journey-2026)
+---
+
+[Star this repo](https://github.com/ajitdev01/neetcode-submissions) &nbsp;·&nbsp; [NeetCode Profile](https://neetcode.io) &nbsp;·&nbsp; Made with hard work in India
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a3e,100:0a0a1a&height=100&section=footer" width="100%"/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajitdev01.neetcode-submissions)
 
 </div>
