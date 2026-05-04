@@ -2,7 +2,6 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-<<<<<<< HEAD
 
 class Solution
 {
@@ -19,23 +18,6 @@ public:
         //      }
         //    }
 
-=======
-class Solution
-{
-public:
-    void sortColors(vector<int> &nums)
-    {
-        // // // This is O(n^2) sooo bad
-        //    int n = nums.size();
-        //    for(int i =0;i<n;i++){
-        //      for(int j = 0; j<n-1;j++){
-        //         if(nums[j] > nums[j+1]){
-        //             swap(nums[j], nums[j+1]);
-        //         }
-        //      }
-        //    }
-
->>>>>>> 2c4e1a5 (Updated Sort Colores)
         // // by Using STL but this is bad Approch
         // sort(nums.begin(),nums.end());
 
