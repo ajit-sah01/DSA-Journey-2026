@@ -4,7 +4,6 @@ static const int fast_io = []() {
     std::cin.tie(NULL);
     return 0;
 }();
-
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
@@ -19,7 +18,6 @@ public:
 
         return ans;
     }
-
 private:
     int getMaxDepth(TreeNode* node) {
         if (!node) return 0;
