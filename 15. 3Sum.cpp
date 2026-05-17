@@ -1,59 +1,122 @@
+#include <iostream>
 #include <vector>
 #include <algorithm>
+
 using namespace std;
+
+/*
+------------------------------------------------------------
+3SUM PROBLEM
+------------------------------------------------------------
+
+Given an integer array nums,
+return all unique triplets such that:
+
+nums[i] + nums[j] + nums[k] == 0
+
+------------------------------------------------------------
+APPROACH USED
+------------------------------------------------------------
+
+Optimal Two Pointer Approach
+
+1. Sort the array
+2. Fix one element
+3. Use two pointers:
+      - left  -> i + 1
+      - right -> n - 1
+4. Move pointers based on current sum
+
+------------------------------------------------------------
+TIME COMPLEXITY
+------------------------------------------------------------
+
+Sorting      : O(n log n)
+Two Pointer  : O(n²)
+
+Overall      : O(n²)
+
+------------------------------------------------------------
+SPACE COMPLEXITY
+------------------------------------------------------------
+
+O(1) (excluding answer vector)
+
+------------------------------------------------------------
+*/
 
 class Solution
 {
 public:
     vector<vector<int>> threeSum(vector<int> &nums)
     {
-        vector<vector<int>> res;
         int n = nums.size();
-        if (n < 3)
-            return res;
 
+        // Step 1 : Sort the array
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n - 2; ++i)
+        // Final answer vector
+        vector<vector<int>> ans;
+
+        // Step 2 : Fix one element
+        for (int i = 0; i < n; i++)
         {
-
-            // Skip duplicate anchors
+            // Skip duplicate elements
             if (i > 0 && nums[i] == nums[i - 1])
-                continue;
-
-            // Early pruning
-            if (nums[i] > 0)
-                break;
-
-            int l = i + 1, r = n - 1;
-
-            while (l < r)
             {
-                int sum = nums[i] + nums[l] + nums[r];
+                continue;
+            }
 
-                if (sum == 0)
+            // Two pointers
+            int left = i + 1;
+            int right = n - 1;
+
+            // Step 3 : Apply Two Pointer Technique
+            while (left < right)
+            {
+                int sum = nums[i] + nums[left] + nums[right];
+
+                // If sum is smaller, move left pointer
+                if (sum < 0)
                 {
-                    res.push_back({nums[i], nums[l], nums[r]});
-
-                    int leftVal = nums[l];
-                    int rightVal = nums[r];
-
-                    // Skip duplicates efficiently
-                    while (l < r && nums[l] == leftVal)
-                        ++l;
-                    while (l < r && nums[r] == rightVal)
-                        --r;
+                    left++;
                 }
-                else if (sum < 0)
+
+                // If sum is larger, move right pointer
+                else if (sum > 0)
                 {
-                    ++l;
+                    right--;
                 }
+
+                // Valid triplet found
                 else
                 {
-                    --r;
+                    ans.push_back(
+                        {
+                            nums[i],
+                            nums[left],
+                            nums[right]});
+
+                    left++;
+                    right--;
+
+                    // Skip duplicate values for left pointer
+                    while (left < right &&
+                           nums[left] == nums[left - 1])
+                    {
+                        left++;
+                    }
+
+                    // Skip duplicate values for right pointer
+                    while (left < right &&
+                           nums[right] == nums[right + 1])
+                    {
+                        right--;
+                    }
                 }
             }
         }
-        return res;
+
+        return ans;
     }
 };
