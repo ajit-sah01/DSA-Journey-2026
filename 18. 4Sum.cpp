@@ -1,78 +1,62 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
+///// My Logic 
 class Solution
 {
 public:
-    vector<vector<int>> fourSum(vector<int> &nums, long long target)
+    vector<vector<int>> fourSum(vector<int> &nums, int target)
     {
-        vector<vector<int>> res;
+        vector<vector<int>> ans;
         int n = nums.size();
-        if (n < 4)
-            return res;
-
+        /// Sort Array
         sort(nums.begin(), nums.end());
-
-        for (int i = 0; i < n - 3; ++i)
+        for (int i = 0; i < n; i++)
         {
-            // Skip duplicate first element
+            // edge case
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
-            // Early pruning
-            long long min1 = (long long)nums[i] + nums[i + 1] + nums[i + 2] + nums[i + 3];
-            if (min1 > target)
-                break;
-
-            long long max1 = (long long)nums[i] + nums[n - 1] + nums[n - 2] + nums[n - 3];
-            if (max1 < target)
-                continue;
-
-            for (int j = i + 1; j < n - 2; ++j)
+            for (int j = i + 1; j < n;)
             {
-                // Skip duplicate second element
-                if (j > i + 1 && nums[j] == nums[j - 1])
-                    continue;
+                // edge case
 
-                long long min2 = (long long)nums[i] + nums[j] + nums[j + 1] + nums[j + 2];
-                if (min2 > target)
-                    break;
-
-                long long max2 = (long long)nums[i] + nums[j] + nums[n - 1] + nums[n - 2];
-                if (max2 < target)
-                    continue;
-
-                int left = j + 1, right = n - 1;
-
-                while (left < right)
+                int p = j + 1, q = n - 1;
+                while (p < q)
                 {
-                    long long sum = (long long)nums[i] + nums[j] + nums[left] + nums[right];
+                    long long sum = (long long)nums[i] +
+                                    (long long)nums[j] +
+                                    (long long)nums[p] +
+                                    (long long)nums[q];
 
-                    if (sum == target)
+                    if (sum < target)
                     {
-                        res.push_back({nums[i], nums[j], nums[left], nums[right]});
+                        p++;
+                    }
+                    else if (sum > target)
+                    {
+                        q--;
+                    }
+                    else // sum == tar
+                    {
+                        ans.push_back({nums[i], nums[j], nums[p], nums[q]});
+                        p++;
+                        q--;
+                        while (p < q && nums[p] == nums[p - 1])
+                        {
+                            p++;
+                        }
 
-                        // Skip duplicates
-                        while (left < right && nums[left] == nums[left + 1])
-                            left++;
-                        while (left < right && nums[right] == nums[right - 1])
-                            right--;
-
-                        left++;
-                        right--;
+                        while (p < q && nums[q] == nums[q + 1])
+                        {
+                            q--;
+                        }
                     }
-                    else if (sum < target)
-                    {
-                        left++;
-                    }
-                    else
-                    {
-                        right--;
-                    }
+                }
+                j++;
+                while (j < n && nums[j] == nums[j - 1])
+                {
+                    j++;
                 }
             }
         }
-        return res;
+        return ans;
     }
 };
