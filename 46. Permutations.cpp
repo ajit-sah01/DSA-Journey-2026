@@ -1,22 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> res;
-
-    void backtrack(int idx, vector<int>& nums) {
-        if (idx == nums.size()) {
-            res.push_back(nums);
-            return;
+    void getPermuta(vector<int> &arr , int idx , vector<vector<int>> &ans){
+        int n = arr.size();
+        if(idx==n){
+            ans.push_back({arr});
+            return ;
         }
 
-        for (int i = idx; i < nums.size(); i++) {
-            swap(nums[idx], nums[i]);
-            backtrack(idx + 1, nums);
-            swap(nums[idx], nums[i]); // backtrack
+        for(int i = idx ; i<n ; i++){
+            swap(arr[idx], arr[i]); //// idx place => ith element Choise
+            getPermuta(arr,idx+1, ans);
+
+            swap(arr[idx], arr[i]) ; // backTracing
         }
+
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        backtrack(0, nums);
-        return res;
+        vector<vector<int>> ans;
+        getPermuta(nums,0, ans);
+        return ans;
     }
 };
