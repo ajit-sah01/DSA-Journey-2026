@@ -1,42 +1,62 @@
 class Solution {
 public:
-    vector<vector<string>> results;
-    vector<string> board;
 
-    void solve(int row, int n, int cols, int diag1, int diag2) {
-        // All queens placed successfully
-        if (row == n) {
-            results.push_back(board);
+    bool isSafe(vector<string> &board, int row, int col , int n){ // O(n) 
+        ////Horiziontal
+        for(int j =0; j<n; j++){
+            if(board[row][j] == 'Q'){
+                return false;
+            }
+        }
+
+        // Vertical
+        for(int i =0; i<n; i++){
+            if(board[i][col] == 'Q'){
+                return false;
+            }
+        }
+
+        // Left Diogonal
+        for(int i = row , j=col; i>=0 && j>=0 ; i--, j--){
+            if(board[i][j] == 'Q'){
+                return false;
+            }
+        }
+
+        // Right Diogonal
+        for(int i = row , j=col; i>=0 && j>=0 ; i--, j++){
+            if(board[i][j] == 'Q'){
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+
+    void nQueens(vector<string> &board, int row, int n , vector<vector<string>> &ans ){
+
+        if(row == n){
+            ans.push_back({board});
             return;
         }
 
-        // Bitmask of all available positions in this row
-        int available = ((1 << n) - 1) & ~(cols | diag1 | diag2);
 
-        while (available) {
-            // Pick the rightmost available position
-            int bit = available & -available;
-            available -= bit;
-
-            int col = __builtin_ctz(bit);
-
-            board[row][col] = 'Q';
-
-            solve(
-                row + 1,
-                n,
-                cols | bit,
-                (diag1 | bit) << 1,
-                (diag2 | bit) >> 1
-            );
-
-            board[row][col] = '.';
+        for(int j =0; j<n ; j++){
+            if(isSafe(board, row, j ,n)){
+                board[row][j] = 'Q';
+                nQueens(board, row+1,n,ans);
+                board[row][j] = '.';
+            }
         }
     }
+    
 
     vector<vector<string>> solveNQueens(int n) {
-        board.assign(n, string(n, '.'));
-        solve(0, n, 0, 0, 0);
-        return results;
+        vector<string> board(n , string(n, '.'));
+        vector<vector <string>> ans;
+
+        nQueens(board, 0,  n , ans );
+        return ans;
     }
 };
