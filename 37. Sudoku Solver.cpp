@@ -7,7 +7,7 @@ public:
 
     void solveSudoku(vector<vector<char>> &board)
     {
-        // Initialize constraints
+        // Initialize 
         for (int i = 0; i < 9; i++)
         {
             for (int j = 0; j < 9; j++)
