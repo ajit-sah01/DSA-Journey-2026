@@ -22,7 +22,7 @@ public:
                 {
                     return false;
                 }
-
+                
                 row[i][num] = true;
                 col[j][num] = true;
                 box[boxIndex][num] = true;
