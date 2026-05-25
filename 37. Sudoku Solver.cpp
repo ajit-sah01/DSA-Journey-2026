@@ -1,55 +1,69 @@
-class Solution
-{
+class Solution {
 public:
-    bool row[9][9] = {false};
-    bool col[9][9] = {false};
-    bool box[9][9] = {false};
 
-    void solveSudoku(vector<vector<char>> &board)
-    {
-        // Initialize 
-        for (int i = 0; i < 9; i++)
-        {
-            for (int j = 0; j < 9; j++)
-            {
-                if (board[i][j] != '.')
-                {
-                    int num = board[i][j] - '1';
-                    int b = (i / 3) * 3 + (j / 3);
-                    row[i][num] = col[j][num] = box[b][num] = true;
+  bool  isSafe(vector<vector<char>>& board , int row , int col, char dig){
+
+        /// Hori
+        for(int j =0 ; j<9 ; j++){
+            if(board[row][j] == dig){
+                return false;
+            }
+        }
+
+        /// ver
+        for(int i =0; i<9; i++){
+            if(board[i][col] ==  dig){
+                return false;
+            }
+        }
+
+        //// grid 
+        int stRow = (row/3) *3;
+        int stCol = (col/3) *3;
+        for(int i = stRow ; i<= stRow +2 ; i++){
+            for(int j = stCol ; j<=stCol+2; j++){
+                if(board[i][j] == dig){
+                    return false;
                 }
             }
         }
-        backtrack(board, 0, 0);
+
+    return true;
+
     }
 
-private:
-    bool backtrack(vector<vector<char>> &board, int r, int c)
-    {
-        if (r == 9)
+    bool helper(vector<vector<char>>& board , int row , int col){
+
+        if(row == 9){
             return true;
-        if (c == 9)
-            return backtrack(board, r + 1, 0);
-        if (board[r][c] != '.')
-            return backtrack(board, r, c + 1);
+        }
 
-        int b = (r / 3) * 3 + (c / 3);
+        int nextRow = row , nextCol = col+1;
+        if(nextCol ==9){
+            nextRow = row+1;
+            nextCol =0;
+        }
 
-        for (int num = 0; num < 9; num++)
-        {
-            if (!row[r][num] && !col[c][num] && !box[b][num])
-            {
-                board[r][c] = char(num + '1');
-                row[r][num] = col[c][num] = box[b][num] = true;
 
-                if (backtrack(board, r, c + 1))
+        if(board[row][col] != '.'){
+           return helper(board, nextRow, nextCol);
+        }
+
+        // place the Digit
+        for(char dig = '1'; dig<= '9' ; dig++){
+            if(isSafe(board, row,col, dig)){
+                board[row][col] = dig;
+                if(helper(board, nextRow, nextCol)){
                     return true;
-
-                // Backtrack
-                board[r][c] = '.';
-                row[r][num] = col[c][num] = box[b][num] = false;
+                }
+                 board[row][col] = '.';
             }
         }
+
         return false;
+    }
+
+    void solveSudoku(vector<vector<char>>& board) {
+        helper(board,0,0);
     }
 };
