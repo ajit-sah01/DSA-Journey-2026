@@ -1,35 +1,46 @@
+
 class Solution
 {
 public:
-    vector<vector<int>> res;
-    vector<int> path;
-    int n;
-
-    void dfs(const vector<int> &candidates, int target, int start)
+    set<vector<int>> s;
+    void getAllcombin(vector<int> &arr, int idx, int tar, vector<vector<int>> &ans, vector<int> &combin)
     {
-        if (target == 0)
+        int n = arr.size();
+        if (n == idx || tar < 0)
         {
-            res.push_back(path);
             return;
         }
 
-        for (int i = start; i < n; i++)
+        if (tar == 0)
         {
-            int val = candidates[i];
-            if (val > target)
-                break; // hard prune
+            if (s.find(combin) == s.end())
+            {
+                ans.push_back(combin);
+                s.insert(combin);
+            }
 
-            path.push_back(val);
-            dfs(candidates, target - val, i);
-            path.pop_back();
+            return;
         }
+
+        //// Single Choise
+        combin.push_back(arr[idx]);
+
+        getAllcombin(arr, idx + 1, tar - arr[idx], ans, combin);
+
+        //// Mutliple
+        getAllcombin(arr, idx, tar - arr[idx], ans, combin);
+
+        combin.pop_back();
+        /// excluction
+        getAllcombin(arr, idx + 1, tar, ans, combin);
     }
 
-    vector<vector<int>> combinationSum(vector<int> &candidates, int target)
+    vector<vector<int>> combinationSum(vector<int> &arr, int target)
     {
-        sort(candidates.begin(), candidates.end());
-        n = candidates.size();
-        dfs(candidates, target, 0);
-        return res;
+        vector<vector<int>> ans;
+        vector<int> combin;
+
+        getAllcombin(arr, 0, target, ans, combin);
+        return ans;
     }
 };
