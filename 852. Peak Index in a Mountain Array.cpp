@@ -1,51 +1,38 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 class Solution
 {
 public:
     int peakIndexInMountainArray(vector<int> &arr)
     {
-        // int MaxIndex  = 0;
-        // // O(n) Apprioch hite my mide under 1 min
-        // for(int i =0 ; i< arr.size(); i++){
-        //     MaxIndex = max(MaxIndex , arr[i]);
+        // /// Linear Serach
+        // int n = arr.size();
+        // int ans = arr[0];
+        // for(int i =0; i<n ; i++ ){
+        //     ans = max(ans, arr[i]);
         // }
-        // for(int i =0 ; i< arr.size(); i++){
-        //     if(arr[i] == MaxIndex){
-        //         return i ;
+        // for(int i =0; i<n  ; i++ ){
+        //     if(arr[i] == ans){
+        //         return i;
         //     }
         // }
-        //  return -1;
+        // return -1;
 
-                // int MaxIndex  = 0;
-        // // more short
-        // for(int i = 1 ; i<arr.size() ; i++){
-        //     if(arr[MaxIndex] < arr[i]){
-        //          MaxIndex = i;
-        //     }
-        // }
-        //  return MaxIndex;
-
-        //// O(log n)
-        int st = 1, end = arr.size() - 1;
-        while (st <= end)
+       //// Binary Search
+        int st = 0;
+        int end = arr.size() - 1;
+        while (st < end)
         {
             int mid = st + (end - st) / 2;
-            if (arr[mid - 1] < arr[mid] && arr[mid] > arr[mid + 1])
-            {
-                return mid;
-            }
-            else if (arr[mid - 1] < arr[mid])
+
+            if (arr[mid] < arr[mid + 1])
             {
                 st = mid + 1;
             }
             else
             {
-                end = mid - 1;
+                end = mid;
             }
         }
-        return -1;
+
+        return st;
     }
 };
