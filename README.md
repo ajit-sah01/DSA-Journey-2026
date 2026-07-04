@@ -751,6 +751,7 @@ fail2ban-client status
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
@@ -794,6 +795,7 @@ fail2ban-client status
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
@@ -821,4 +823,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
