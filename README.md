@@ -735,6 +735,7 @@ fail2ban-client status
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0136-single-number) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0330-patching-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0330-patching-array) |
@@ -818,6 +819,7 @@ fail2ban-client status
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
@@ -832,4 +834,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
