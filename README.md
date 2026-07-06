@@ -744,6 +744,7 @@ fail2ban-client status
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -771,6 +772,7 @@ fail2ban-client status
 | ------- |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 ## Randomized
 |  |
 | ------- |
