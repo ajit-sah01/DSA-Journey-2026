@@ -1,46 +1,32 @@
-class Solution {
-	public:
-		// Boyer–Moore Voting Algorithm
-		int majorityElement(vector < int > vec) {
-            
-			//    int n = vec.size();
-			//    int ans = 0 , feq = 0;
-			//    for(int i= 0; i < n ; i++ ){
-			//     if(feq == 0){
-			//         ans = vec[i];
-			//     }
-			//     if(vec[i] == ans){
-			//         feq++;
-			//     }else{
-			//         feq--;
-			//     }
-			//    }
-			//    return ans;
+class Solution
+{
+public:
+    // Boyer-Moore Voting Algorithm
+    int majorityElement(vector<int> &nums)
+    {
+        int candidate = 0;
+        int count = 0;
 
+        // Find candidate
+        for (int num : nums)
+        {
+            if (count == 0)
+                candidate = num;
 
-			int ans = 0, fq = 0;
-			for(int val: vec) {
-				if(fq == 0) {
-					ans = val;
-				}
-				if(val == ans) {
-					fq++;
-				} else {
-					fq--;
-				}
-			}
-			return ans;
+            if (num == candidate)
+                count++;
+            else
+                count--;
+        }
 
+        // Verify candidate (needed only if majority isn't guaranteed)
+        count = 0;
+        for (int num : nums)
+        {
+            if (num == candidate)
+                count++;
+        }
 
-			// int count = 0;
-			// for (int val : vec)
-			// {
-			//     if (val == ans)
-			//         count++;
-			// }
-			// if (count > n / 2)
-			//     return ans;
-			// else
-			//     return -1;
-		}
+        return (count > nums.size() / 2) ? candidate : -1;
+    }
 };
