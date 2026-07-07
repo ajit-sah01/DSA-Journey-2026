@@ -762,6 +762,7 @@ fail2ban-client status
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
