@@ -762,6 +762,7 @@ fail2ban-client status
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -829,6 +830,7 @@ fail2ban-client status
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
+| [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -846,4 +848,12 @@ fail2ban-client status
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
