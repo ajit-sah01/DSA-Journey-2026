@@ -741,6 +741,7 @@ fail2ban-client status
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0330-patching-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
+| [0377-combination-sum-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
@@ -829,6 +830,7 @@ fail2ban-client status
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
+| [0377-combination-sum-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
