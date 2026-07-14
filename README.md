@@ -764,6 +764,7 @@ fail2ban-client status
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
@@ -838,6 +839,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
+| [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0377-combination-sum-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
@@ -872,4 +874,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
