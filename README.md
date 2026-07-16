@@ -750,6 +750,7 @@ fail2ban-client status
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -773,6 +774,7 @@ fail2ban-client status
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -788,6 +790,7 @@ fail2ban-client status
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Randomized
 |  |
 | ------- |
@@ -803,6 +806,7 @@ fail2ban-client status
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -883,4 +887,9 @@ fail2ban-client status
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
