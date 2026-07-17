@@ -19,20 +19,42 @@
 //     }
 // };
 
+
+
+// class Solution {
+// public:
+//     int findLucky(vector<int>& arr) {
+//         unordered_map<int, int> freq;
+
+//         for (int num : arr)
+//             ++freq[num];
+
+//         int ans = -1;
+
+//         for (const auto& [num, count] : freq)
+//             if (num == count)
+//                 ans = max(ans, num);
+
+//         return ans;
+//     }
+// };
+
+
+
+
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        unordered_map<int, int> freq;
+        int freq[501] = {0};
 
         for (int num : arr)
             ++freq[num];
 
-        int ans = -1;
+        for (int i = 500; i >= 1; --i) {
+            if (freq[i] == i)
+                return i;
+        }
 
-        for (const auto& [num, count] : freq)
-            if (num == count)
-                ans = max(ans, num);
-
-        return ans;
+        return -1;
     }
 };
