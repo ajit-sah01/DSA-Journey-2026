@@ -751,6 +751,7 @@ fail2ban-client status
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -774,6 +775,7 @@ fail2ban-client status
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -889,6 +891,7 @@ fail2ban-client status
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
