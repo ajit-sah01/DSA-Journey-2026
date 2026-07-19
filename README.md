@@ -819,12 +819,14 @@ fail2ban-client status
 | [0330-patching-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Backtracking
 |  |
@@ -862,6 +864,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -898,4 +901,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
