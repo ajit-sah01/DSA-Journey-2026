@@ -747,6 +747,7 @@ fail2ban-client status
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -837,6 +838,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
+| [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 ## Geometry
 |  |
 | ------- |
@@ -900,6 +902,7 @@ fail2ban-client status
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
