@@ -829,6 +829,7 @@ fail2ban-client status
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -908,4 +909,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
