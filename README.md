@@ -746,6 +746,7 @@ fail2ban-client status
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
@@ -777,6 +778,7 @@ fail2ban-client status
 | [0458-poor-pigs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -799,6 +801,7 @@ fail2ban-client status
 | ------- |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
