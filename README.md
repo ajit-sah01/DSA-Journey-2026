@@ -844,6 +844,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -856,6 +857,7 @@ fail2ban-client status
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -924,6 +926,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 ## Number Theory
 |  |
 | ------- |
