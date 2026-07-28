@@ -844,6 +844,7 @@ fail2ban-client status
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -889,6 +890,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -914,6 +916,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 ## Breadth-First Search
 |  |
 | ------- |
