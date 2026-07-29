@@ -772,6 +772,7 @@ fail2ban-client status
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
@@ -843,6 +844,7 @@ fail2ban-client status
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
@@ -893,6 +895,7 @@ fail2ban-client status
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -920,6 +923,7 @@ fail2ban-client status
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0394-decode-string) |
 ## Breadth-First Search
