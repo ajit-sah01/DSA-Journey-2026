@@ -784,6 +784,7 @@ fail2ban-client status
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -800,6 +801,7 @@ fail2ban-client status
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
 ## Sorting
 |  |
 | ------- |
@@ -887,6 +889,7 @@ fail2ban-client status
 | [0377-combination-sum-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0458-poor-pigs) |
+| [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
