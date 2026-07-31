@@ -744,6 +744,7 @@ fail2ban-client status
 | [0330-patching-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
 | [0377-combination-sum-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0377-combination-sum-iv) |
+| [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
@@ -766,6 +767,7 @@ fail2ban-client status
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
+| [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -779,6 +781,7 @@ fail2ban-client status
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
@@ -873,6 +876,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 ## Counting
 |  |
 | ------- |
@@ -967,4 +971,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
