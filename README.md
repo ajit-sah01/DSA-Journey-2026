@@ -743,6 +743,7 @@ fail2ban-client status
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
 | [0330-patching-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0335-self-crossing) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0377-combination-sum-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0377-combination-sum-iv) |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
@@ -800,6 +801,7 @@ fail2ban-client status
 ## Binary Search
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
@@ -827,6 +829,7 @@ fail2ban-client status
 ## Prefix Sum
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
@@ -871,6 +874,7 @@ fail2ban-client status
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0289-game-of-life](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0289-game-of-life) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 ## Geometry
 |  |
@@ -975,4 +979,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
