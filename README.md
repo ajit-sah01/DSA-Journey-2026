@@ -752,6 +752,7 @@ fail2ban-client status
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
@@ -877,6 +878,7 @@ fail2ban-client status
 | [0289-game-of-life](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0289-game-of-life) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
+| [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 ## Geometry
 |  |
@@ -949,6 +951,7 @@ fail2ban-client status
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
+| [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 ## Number Theory
 |  |
 | ------- |
@@ -959,6 +962,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0289-game-of-life) |
+| [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -987,4 +991,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 <!---LeetCode Topics End-->
