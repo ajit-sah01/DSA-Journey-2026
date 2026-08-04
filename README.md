@@ -735,6 +735,7 @@ fail2ban-client status
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0136-single-number) |
@@ -771,6 +772,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
