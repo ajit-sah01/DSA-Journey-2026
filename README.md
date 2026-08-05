@@ -755,6 +755,7 @@ fail2ban-client status
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
@@ -999,12 +1000,18 @@ fail2ban-client status
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
+| [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
+## Segment Tree
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
