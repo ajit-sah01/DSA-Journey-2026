@@ -767,6 +767,7 @@ fail2ban-client status
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -821,6 +822,7 @@ fail2ban-client status
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sorting
 |  |
 | ------- |
@@ -834,6 +836,7 @@ fail2ban-client status
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -929,6 +932,7 @@ fail2ban-client status
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Stack
 |  |
 | ------- |
@@ -1011,6 +1015,7 @@ fail2ban-client status
 | ------- |
 | [0391-perfect-rectangle](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Ordered Set
 |  |
 | ------- |
