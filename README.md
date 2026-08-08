@@ -756,6 +756,7 @@ fail2ban-client status
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
@@ -821,6 +822,7 @@ fail2ban-client status
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sorting
@@ -898,6 +900,7 @@ fail2ban-client status
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 ## Geometry
 |  |
@@ -930,6 +933,7 @@ fail2ban-client status
 | [0295-find-median-from-data-stream](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -978,6 +982,7 @@ fail2ban-client status
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0407-trapping-rain-water-ii) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 ## Number Theory
 |  |
 | ------- |
@@ -1026,6 +1031,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1046,4 +1052,16 @@ fail2ban-client status
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
