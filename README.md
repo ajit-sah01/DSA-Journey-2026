@@ -761,6 +761,7 @@ fail2ban-client status
 | [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
@@ -803,6 +804,7 @@ fail2ban-client status
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -855,6 +857,7 @@ fail2ban-client status
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -926,6 +929,7 @@ fail2ban-client status
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -967,6 +971,7 @@ fail2ban-client status
 | ------- |
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -1060,8 +1065,13 @@ fail2ban-client status
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
