@@ -806,6 +806,7 @@ fail2ban-client status
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -931,6 +932,7 @@ fail2ban-client status
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -973,6 +975,7 @@ fail2ban-client status
 | [1025-divisor-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -1066,6 +1069,7 @@ fail2ban-client status
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -1074,4 +1078,13 @@ fail2ban-client status
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
