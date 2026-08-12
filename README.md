@@ -771,6 +771,7 @@ fail2ban-client status
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -786,6 +787,7 @@ fail2ban-client status
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [1331-rank-transform-of-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -1051,6 +1053,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0220-contains-duplicate-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
