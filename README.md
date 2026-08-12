@@ -900,6 +900,7 @@ fail2ban-client status
 | ------- |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0052-n-queens-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
@@ -1093,4 +1094,8 @@ fail2ban-client status
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
