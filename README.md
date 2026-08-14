@@ -789,6 +789,7 @@ fail2ban-client status
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -893,6 +894,7 @@ fail2ban-client status
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -1055,6 +1057,7 @@ fail2ban-client status
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0220-contains-duplicate-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bucket Sort
 |  |
 | ------- |
