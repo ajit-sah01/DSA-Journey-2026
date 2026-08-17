@@ -768,6 +768,7 @@ fail2ban-client status
 | [1394-find-lucky-integer-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -813,6 +814,7 @@ fail2ban-client status
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -942,6 +944,7 @@ fail2ban-client status
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1563-stone-game-v) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -986,6 +989,7 @@ fail2ban-client status
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
