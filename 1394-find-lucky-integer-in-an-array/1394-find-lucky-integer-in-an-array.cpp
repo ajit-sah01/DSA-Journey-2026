@@ -21,6 +21,8 @@
 
 
 
+// //// 2nd
+
 // class Solution {
 // public:
 //     int findLucky(vector<int>& arr) {
@@ -40,7 +42,7 @@
 // };
 
 
-
+///// 3rd
 
 class Solution {
 public:
