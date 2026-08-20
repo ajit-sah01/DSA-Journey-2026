@@ -774,6 +774,7 @@ fail2ban-client status
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1020,6 +1021,7 @@ fail2ban-client status
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
