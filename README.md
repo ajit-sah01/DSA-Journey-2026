@@ -733,6 +733,7 @@ fail2ban-client status
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
@@ -783,6 +784,7 @@ fail2ban-client status
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
