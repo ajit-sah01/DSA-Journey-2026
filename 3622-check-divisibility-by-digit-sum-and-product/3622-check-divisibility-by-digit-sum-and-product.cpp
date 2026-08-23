@@ -18,9 +18,8 @@ public:
 
 
         /// make more simple
-        int temp = n;
-        int sum  = 0;
-        int product = 1;
+        int temp = n , sum  = 0 ,product = 1;
+
         while(temp > 0){
             int dig = temp % 10;
 
