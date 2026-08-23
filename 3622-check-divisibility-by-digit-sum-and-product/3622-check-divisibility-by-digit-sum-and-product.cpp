@@ -1,19 +1,34 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
+        // int temp = n;
+        // int sum = 0;
+        // int product = 1;
+
+        // while (temp > 0) {
+        //     int digit = temp % 10;
+
+        //     sum += digit;
+        //     product *= digit;
+
+        //     temp /= 10;
+        // }
+
+        // return n % (sum + product) == 0;
+
+
+        /// make more simple
         int temp = n;
-        int sum = 0;
+        int sum  = 0;
         int product = 1;
+        while(temp > 0){
+            int dig = temp % 10;
 
-        while (temp > 0) {
-            int digit = temp % 10;
-
-            sum += digit;
-            product *= digit;
+            sum += dig;
+            product *= dig;
 
             temp /= 10;
         }
-
-        return n % (sum + product) == 0;
+        return n  % (sum+product ) == 0;
     }
 };
