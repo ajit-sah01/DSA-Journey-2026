@@ -756,6 +756,7 @@ fail2ban-client status
 | [0502-ipo](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0502-ipo) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [0749-contain-virus](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
@@ -840,6 +841,7 @@ fail2ban-client status
 | [0410-split-array-largest-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0528-random-pick-with-weight) |
+| [0704-binary-search](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0704-binary-search) |
 | [0710-random-pick-with-blacklist](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0710-random-pick-with-blacklist) |
 | [0778-swim-in-rising-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0778-swim-in-rising-water) |
 | [0887-super-egg-drop](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0887-super-egg-drop) |
