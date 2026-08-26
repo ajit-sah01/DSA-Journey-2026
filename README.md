@@ -742,6 +742,7 @@ fail2ban-client status
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0289-game-of-life) |
@@ -804,6 +805,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0231-power-of-two) |
@@ -885,6 +887,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0295-find-median-from-data-stream) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
