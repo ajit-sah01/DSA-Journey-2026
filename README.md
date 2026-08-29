@@ -804,6 +804,7 @@ fail2ban-client status
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
