@@ -736,6 +736,7 @@ fail2ban-client status
 | [0001-two-sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0051-n-queens) |
@@ -853,6 +854,7 @@ fail2ban-client status
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0229-majority-element-ii) |
@@ -888,6 +890,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0295-find-median-from-data-stream) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/2486-append-characters-to-string-to-make-subsequence) |
