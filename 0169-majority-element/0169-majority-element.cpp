@@ -1,9 +1,9 @@
 class Solution
 {
 public:
-    // Boyer-Moore Voting Algorithm
     int majorityElement(vector<int> &nums)
     {
+        // Boyer-Moore Voting Algorithm
         int candidate = 0;
         int count = 0;
 
