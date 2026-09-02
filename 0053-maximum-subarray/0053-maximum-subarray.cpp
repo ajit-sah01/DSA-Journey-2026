@@ -27,15 +27,14 @@ public:
         //    return maxSum;
 
         //// Kadane's Algorithm
-        int currSum = 0, maxSum = INT_MIN;
+        int currSum  = 0  , maxSum = INT_MIN;
         for(int val : A){
-            currSum += val;
-            maxSum = max(currSum , maxSum);
-            if(currSum < 0){
-                currSum = 0;
+           currSum += val;
+           maxSum = max(maxSum , currSum);
+           if(currSum < 0){
+              currSum = 0;
             }
         }
         return maxSum;
-
     }
 };
