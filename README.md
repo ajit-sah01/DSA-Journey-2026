@@ -1139,5 +1139,6 @@ fail2ban-client status
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
