@@ -786,6 +786,7 @@ fail2ban-client status
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -841,6 +842,7 @@ fail2ban-client status
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
