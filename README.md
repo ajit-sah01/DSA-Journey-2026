@@ -766,6 +766,7 @@ fail2ban-client status
 | [0798-smallest-rotation-with-highest-score](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0850-rectangle-area-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0850-rectangle-area-ii) |
 | [0877-stone-game](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0941-valid-mountain-array) |
 | [1094-car-pooling](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/1260-shift-2d-grid) |
