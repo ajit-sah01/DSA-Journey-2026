@@ -917,6 +917,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0301-remove-invalid-parentheses) |
@@ -961,6 +962,7 @@ fail2ban-client status
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ajitdev01/DSA-Journey-2026/tree/master/0313-super-ugly-number) |
